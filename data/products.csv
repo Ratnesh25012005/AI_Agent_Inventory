@@ -1,0 +1,751 @@
+sku,product_name,category,subcategory,brand,unit_price,cost_price,shelf_life_days,is_perishable,supplier_id,pack_size
+SKU-BEV-001,Coca-Cola Classic 500ml,Soft Drinks,Carbonated Drinks,Coca-Cola,40.0,28.0,180,False,SUP-003,24
+SKU-DAI-001,Amul Taaza Toned Milk 1L,Milk,Pasteurized Milk,Amul,54.0,44.0,3,True,SUP-001,12
+SKU-DAI-002,Epigamia Greek Yogurt Plain 400g,Yogurt,Greek Yogurt,Epigamia,80.0,58.0,10,True,SUP-001,6
+SKU-BRE-0004,English Oven Bread Premium 250ml,Bread,Bread Specialties,English Oven,55.33,41.5,4,True,SUP-001,6
+SKU-EGG-0005,Farm Fresh Eggs Family Pack 1kg,Eggs,Eggs Specialties,Farm Fresh,75.91,59.21,17,True,SUP-001,24
+SKU-RIC-0006,Fortune Rice Premium 1kg,Rice,Rice Specialties,Fortune,176.15,140.92,365,False,SUP-002,4
+SKU-ATT-0007,Nature Fresh Atta Refill 500ml,Atta,Atta Specialties,Nature Fresh,188.48,154.55,180,False,SUP-002,24
+SKU-BIS-0008,Oreo Biscuits Standard 250ml,Biscuits,Biscuits Specialties,Oreo,51.98,37.43,180,False,SUP-007,6
+SKU-CHI-0009,Lay's Chips Lite 1L,Chips,Chips Specialties,Lay's,26.38,18.47,120,False,SUP-007,24
+SKU-WAT-0010,Himalayan Water Organic 500ml,Water,Water Specialties,Himalayan,17.09,11.11,365,False,SUP-003,24
+SKU-CHO-0011,Nestle Munch Chocolate Refill Pack of 2,Chocolate,Chocolate Specialties,Nestle Munch,83.44,56.74,180,False,SUP-009,10
+SKU-ICE-0012,Kwality Wall's Ice Cream Standard 500g,Ice Cream,Ice Cream Specialties,Kwality Wall's,71.75,50.22,65,True,SUP-013,24
+SKU-FRU-0013,Driscoll's Fruits Premium Pack of 2,Fruits,Fruits Specialties,Driscoll's,93.43,67.27,7,True,SUP-004,12
+SKU-VEG-0014,Daily Greens Vegetables Fresh Batch 200g,Vegetables,Vegetables Specialties,Daily Greens,60.82,45.01,3,True,SUP-004,24
+SKU-PER-0015,Himalaya Personal Care Classic 1L,Personal Care,Personal Care Specialties,Himalaya,92.35,60.03,730,False,SUP-003,10
+SKU-HOU-0016,Vim Household Classic 1kg,Household,Household Specialties,Vim,227.69,159.38,730,False,SUP-014,24
+SKU-SNA-0017,Balaji Snacks Fresh Batch 250ml,Snacks,Snacks Specialties,Balaji,34.93,25.15,120,False,SUP-009,12
+SKU-BEV-0018,Tata Tea Beverages Family Pack Pack of 4,Beverages,Beverages Specialties,Tata Tea,48.99,34.29,180,False,SUP-003,6
+SKU-CLE-0019,Pril Cleaning Standard 250ml,Cleaning,Cleaning Specialties,Pril,251.33,170.9,730,False,SUP-002,24
+SKU-BAB-0020,Sebamed Baby Care Premium 1kg,Baby Care,Baby Care Specialties,Sebamed,188.05,141.04,365,False,SUP-009,4
+SKU-MIL-0021,Mother Dairy Milk Fresh Batch Pack of 2,Milk,Milk Specialties,Mother Dairy,78.22,62.58,4,True,SUP-001,24
+SKU-BRE-0022,Modern Bread Classic Pack of 2,Bread,Bread Specialties,Modern,59.83,44.87,5,True,SUP-001,6
+SKU-EGG-0023,Farm Fresh Eggs Fresh Batch Pack of 4,Eggs,Eggs Specialties,Farm Fresh,58.47,45.61,17,True,SUP-001,1
+SKU-RIC-0024,Fortune Rice Standard 250ml,Rice,Rice Specialties,Fortune,185.92,148.74,365,False,SUP-002,1
+SKU-ATT-0025,Aashirvaad Atta Lite 500g,Atta,Atta Specialties,Aashirvaad,176.29,144.56,180,False,SUP-002,1
+SKU-BIS-0026,Monaco Biscuits Lite 500ml,Biscuits,Biscuits Specialties,Monaco,45.1,32.47,180,False,SUP-009,4
+SKU-CHI-0027,Pringles Chips Crunchy 250ml,Chips,Chips Specialties,Pringles,43.54,30.48,120,False,SUP-004,1
+SKU-SOF-0028,Coca-Cola Soft Drinks Refill 1L,Soft Drinks,Soft Drinks Specialties,Coca-Cola,60.41,43.5,180,False,SUP-003,24
+SKU-WAT-0029,Kinley Water Premium 200g,Water,Water Specialties,Kinley,21.04,13.68,365,False,SUP-003,1
+SKU-CHO-0030,KitKat Chocolate Lite 250ml,Chocolate,Chocolate Specialties,KitKat,104.35,70.96,180,False,SUP-007,4
+SKU-ICE-0031,Havmor Ice Cream Crunchy 250ml,Ice Cream,Ice Cream Specialties,Havmor,198.04,138.63,62,True,SUP-008,12
+SKU-YOG-0032,Epigamia Yogurt Standard 200g,Yogurt,Yogurt Specialties,Epigamia,83.14,62.36,10,True,SUP-001,4
+SKU-FRU-0033,Driscoll's Fruits Crunchy Pack of 4,Fruits,Fruits Specialties,Driscoll's,69.92,50.34,7,True,SUP-004,1
+SKU-VEG-0034,Green Harvest Vegetables Refill 200g,Vegetables,Vegetables Specialties,Green Harvest,79.12,58.55,5,True,SUP-004,10
+SKU-PER-0035,Colgate Personal Care Refill Pack of 4,Personal Care,Personal Care Specialties,Colgate,104.89,68.18,730,False,SUP-004,1
+SKU-HOU-0036,Harpic Household Fresh Batch 200g,Household,Household Specialties,Harpic,311.79,218.25,730,False,SUP-001,12
+SKU-SNA-0037,Act II Snacks Fresh Batch 1kg,Snacks,Snacks Specialties,Act II,28.7,20.66,120,False,SUP-014,4
+SKU-BEV-0038,Tata Tea Beverages Premium 250ml,Beverages,Beverages Specialties,Tata Tea,127.77,89.44,180,False,SUP-003,12
+SKU-CLE-0039,Scotch-Brite Cleaning Standard 500g,Cleaning,Cleaning Specialties,Scotch-Brite,143.52,97.59,730,False,SUP-015,6
+SKU-BAB-0040,Huggies Baby Care Family Pack 250ml,Baby Care,Baby Care Specialties,Huggies,260.78,195.58,365,False,SUP-011,24
+SKU-MIL-0041,Mother Dairy Milk Crunchy 1L,Milk,Milk Specialties,Mother Dairy,76.45,61.16,2,True,SUP-001,1
+SKU-BRE-0042,Bonn Bread Premium 500g,Bread,Bread Specialties,Bonn,43.82,32.87,5,True,SUP-001,6
+SKU-EGG-0043,Hen Fruit Eggs Family Pack 500g,Eggs,Eggs Specialties,Hen Fruit,111.55,87.01,19,True,SUP-001,6
+SKU-RIC-0044,Daawat Rice Crunchy 500ml,Rice,Rice Specialties,Daawat,190.1,152.08,365,False,SUP-002,24
+SKU-ATT-0045,Patanjali Atta Classic 500g,Atta,Atta Specialties,Patanjali,181.14,148.53,180,False,SUP-002,6
+SKU-BIS-0046,Parle-G Biscuits Premium 1kg,Biscuits,Biscuits Specialties,Parle-G,27.26,19.63,180,False,SUP-012,6
+SKU-CHI-0047,Kurkure Chips Classic Pack of 4,Chips,Chips Specialties,Kurkure,27.53,19.27,120,False,SUP-002,24
+SKU-SOF-0048,Sprite Soft Drinks Classic 200g,Soft Drinks,Soft Drinks Specialties,Sprite,35.21,25.35,180,False,SUP-003,24
+SKU-WAT-0049,Bisleri Water Organic Pack of 4,Water,Water Specialties,Bisleri,23.28,15.13,365,False,SUP-003,12
+SKU-CHO-0050,Cadbury Dairy Milk Chocolate Premium 500g,Chocolate,Chocolate Specialties,Cadbury Dairy Milk,153.41,104.32,180,False,SUP-009,1
+SKU-ICE-0051,Havmor Ice Cream Fresh Batch 1kg,Ice Cream,Ice Cream Specialties,Havmor,120.21,84.15,61,True,SUP-005,6
+SKU-YOG-0052,Epigamia Yogurt Family Pack 250ml,Yogurt,Yogurt Specialties,Epigamia,65.92,49.44,8,True,SUP-001,6
+SKU-FRU-0053,Nature Basket Fruits Refill 1kg,Fruits,Fruits Specialties,Nature Basket,169.61,122.12,5,True,SUP-004,4
+SKU-VEG-0054,Green Harvest Vegetables Refill 200g,Vegetables,Vegetables Specialties,Green Harvest,30.76,22.76,5,True,SUP-004,10
+SKU-PER-0055,Pears Personal Care Lite 500ml,Personal Care,Personal Care Specialties,Pears,106.17,69.01,730,False,SUP-007,1
+SKU-HOU-0056,Colin Household Lite 250ml,Household,Household Specialties,Colin,335.81,235.07,730,False,SUP-006,6
+SKU-SNA-0057,Bikaji Snacks Lite 200g,Snacks,Snacks Specialties,Bikaji,67.9,48.89,120,False,SUP-006,6
+SKU-BEV-0058,Tata Tea Beverages Classic 1L,Beverages,Beverages Specialties,Tata Tea,176.5,123.55,180,False,SUP-003,24
+SKU-CLE-0059,Scotch-Brite Cleaning Family Pack 200g,Cleaning,Cleaning Specialties,Scotch-Brite,72.11,49.03,730,False,SUP-003,12
+SKU-BAB-0060,Johnson's Baby Baby Care Standard 500g,Baby Care,Baby Care Specialties,Johnson's Baby,436.18,327.13,365,False,SUP-012,6
+SKU-MIL-0061,Nestle Milk Fresh Batch 500g,Milk,Milk Specialties,Nestle,49.26,39.41,4,True,SUP-001,4
+SKU-BRE-0062,English Oven Bread Standard Pack of 2,Bread,Bread Specialties,English Oven,25.06,18.79,5,True,SUP-001,24
+SKU-EGG-0063,Hen Fruit Eggs Family Pack Pack of 2,Eggs,Eggs Specialties,Hen Fruit,54.9,42.82,19,True,SUP-001,12
+SKU-RIC-0064,Fortune Rice Premium 500ml,Rice,Rice Specialties,Fortune,171.28,137.02,365,False,SUP-002,6
+SKU-ATT-0065,Nature Fresh Atta Classic 1kg,Atta,Atta Specialties,Nature Fresh,72.82,59.71,180,False,SUP-002,24
+SKU-BIS-0066,Britannia Good Day Biscuits Classic Pack of 2,Biscuits,Biscuits Specialties,Britannia Good Day,39.66,28.56,180,False,SUP-005,6
+SKU-CHI-0067,Kurkure Chips Refill 1L,Chips,Chips Specialties,Kurkure,33.95,23.77,120,False,SUP-011,4
+SKU-SOF-0068,Limca Soft Drinks Crunchy 1kg,Soft Drinks,Soft Drinks Specialties,Limca,74.53,53.66,180,False,SUP-003,12
+SKU-WAT-0069,Vedica Water Family Pack 500g,Water,Water Specialties,Vedica,27.28,17.73,365,False,SUP-003,24
+SKU-CHO-0070,Ferrero Rocher Chocolate Lite 250ml,Chocolate,Chocolate Specialties,Ferrero Rocher,57.68,39.22,180,False,SUP-004,10
+SKU-ICE-0071,Baskin Robbins Ice Cream Premium Pack of 4,Ice Cream,Ice Cream Specialties,Baskin Robbins,117.53,82.27,80,True,SUP-010,4
+SKU-YOG-0072,Milky Mist Yogurt Crunchy Pack of 2,Yogurt,Yogurt Specialties,Milky Mist,39.64,29.73,7,True,SUP-001,1
+SKU-FRU-0073,Driscoll's Fruits Lite 1kg,Fruits,Fruits Specialties,Driscoll's,152.58,109.86,7,True,SUP-004,1
+SKU-VEG-0074,Pure Veg Vegetables Lite 500g,Vegetables,Vegetables Specialties,Pure Veg,47.39,35.07,6,True,SUP-004,24
+SKU-PER-0075,Himalaya Personal Care Fresh Batch 1L,Personal Care,Personal Care Specialties,Himalaya,335.51,218.08,730,False,SUP-010,24
+SKU-HOU-0076,Harpic Household Refill Pack of 4,Household,Household Specialties,Harpic,364.02,254.81,730,False,SUP-008,6
+SKU-SNA-0077,Bikaji Snacks Classic Pack of 4,Snacks,Snacks Specialties,Bikaji,65.74,47.33,120,False,SUP-008,1
+SKU-BEV-0078,Nescafe Beverages Lite 500ml,Beverages,Beverages Specialties,Nescafe,113.85,79.69,180,False,SUP-003,4
+SKU-CLE-0079,Pril Cleaning Lite Pack of 2,Cleaning,Cleaning Specialties,Pril,208.08,141.49,730,False,SUP-002,10
+SKU-BAB-0080,Sebamed Baby Care Family Pack Pack of 4,Baby Care,Baby Care Specialties,Sebamed,340.36,255.27,365,False,SUP-014,10
+SKU-MIL-0081,Nestle Milk Standard Pack of 2,Milk,Milk Specialties,Nestle,53.85,43.08,3,True,SUP-001,6
+SKU-BRE-0082,Bonn Bread Refill 250ml,Bread,Bread Specialties,Bonn,42.09,31.57,4,True,SUP-001,10
+SKU-EGG-0083,Farm Fresh Eggs Standard Pack of 2,Eggs,Eggs Specialties,Farm Fresh,73.53,57.35,20,True,SUP-001,24
+SKU-RIC-0084,Daawat Rice Crunchy 1kg,Rice,Rice Specialties,Daawat,256.53,205.22,365,False,SUP-002,10
+SKU-ATT-0085,Patanjali Atta Standard 500g,Atta,Atta Specialties,Patanjali,138.2,113.32,180,False,SUP-002,10
+SKU-BIS-0086,Britannia Good Day Biscuits Standard 500ml,Biscuits,Biscuits Specialties,Britannia Good Day,32.06,23.08,180,False,SUP-008,6
+SKU-CHI-0087,Bingo Chips Refill 500ml,Chips,Chips Specialties,Bingo,42.56,29.79,120,False,SUP-005,1
+SKU-SOF-0088,Sprite Soft Drinks Standard 200g,Soft Drinks,Soft Drinks Specialties,Sprite,94.99,68.39,180,False,SUP-003,4
+SKU-WAT-0089,Kinley Water Standard 200g,Water,Water Specialties,Kinley,29.24,19.01,365,False,SUP-003,1
+SKU-CHO-0090,Nestle Munch Chocolate Organic 250ml,Chocolate,Chocolate Specialties,Nestle Munch,55.15,37.5,180,False,SUP-010,4
+SKU-ICE-0091,Vadilal Ice Cream Classic 1L,Ice Cream,Ice Cream Specialties,Vadilal,74.36,52.05,79,True,SUP-012,24
+SKU-YOG-0092,Epigamia Yogurt Organic 500ml,Yogurt,Yogurt Specialties,Epigamia,31.49,23.62,7,True,SUP-001,6
+SKU-FRU-0093,Nature Basket Fruits Refill Pack of 2,Fruits,Fruits Specialties,Nature Basket,171.81,123.7,5,True,SUP-004,1
+SKU-VEG-0094,Pure Veg Vegetables Lite 500g,Vegetables,Vegetables Specialties,Pure Veg,61.83,45.75,5,True,SUP-004,24
+SKU-PER-0095,Himalaya Personal Care Premium 200g,Personal Care,Personal Care Specialties,Himalaya,160.69,104.45,730,False,SUP-011,6
+SKU-HOU-0096,Vim Household Fresh Batch 1L,Household,Household Specialties,Vim,54.43,38.1,730,False,SUP-014,10
+SKU-SNA-0097,Haldiram's Snacks Refill 1L,Snacks,Snacks Specialties,Haldiram's,66.31,47.74,120,False,SUP-012,4
+SKU-BEV-0098,Bru Beverages Organic 500ml,Beverages,Beverages Specialties,Bru,171.26,119.88,180,False,SUP-003,10
+SKU-CLE-0099,Dettol Disinfectant Cleaning Classic 1L,Cleaning,Cleaning Specialties,Dettol Disinfectant,245.15,166.7,730,False,SUP-005,10
+SKU-BAB-0100,Huggies Baby Care Crunchy Pack of 2,Baby Care,Baby Care Specialties,Huggies,298.29,223.72,365,False,SUP-014,6
+SKU-MIL-0101,Nandini Milk Crunchy 250ml,Milk,Milk Specialties,Nandini,47.74,38.19,3,True,SUP-001,6
+SKU-BRE-0102,English Oven Bread Classic 200g,Bread,Bread Specialties,English Oven,43.08,32.31,3,True,SUP-001,1
+SKU-EGG-0103,Hen Fruit Eggs Refill Pack of 4,Eggs,Eggs Specialties,Hen Fruit,88.86,69.31,17,True,SUP-001,24
+SKU-RIC-0104,Kohinoor Rice Crunchy Pack of 4,Rice,Rice Specialties,Kohinoor,222.73,178.18,365,False,SUP-002,6
+SKU-ATT-0105,Fortune Chakki Atta Refill 250ml,Atta,Atta Specialties,Fortune Chakki,89.4,73.31,180,False,SUP-002,10
+SKU-BIS-0106,Monaco Biscuits Fresh Batch 1L,Biscuits,Biscuits Specialties,Monaco,34.15,24.59,180,False,SUP-006,24
+SKU-CHI-0107,Doritos Chips Classic 500ml,Chips,Chips Specialties,Doritos,27.54,19.28,120,False,SUP-012,4
+SKU-SOF-0108,Thums Up Soft Drinks Premium 1kg,Soft Drinks,Soft Drinks Specialties,Thums Up,46.49,33.47,180,False,SUP-003,6
+SKU-WAT-0109,Vedica Water Fresh Batch 500ml,Water,Water Specialties,Vedica,29.71,19.31,365,False,SUP-003,6
+SKU-CHO-0110,KitKat Chocolate Family Pack 1kg,Chocolate,Chocolate Specialties,KitKat,76.27,51.86,180,False,SUP-005,1
+SKU-ICE-0111,Kwality Wall's Ice Cream Fresh Batch 500ml,Ice Cream,Ice Cream Specialties,Kwality Wall's,167.05,116.94,64,True,SUP-011,10
+SKU-YOG-0112,Epigamia Yogurt Standard 500ml,Yogurt,Yogurt Specialties,Epigamia,53.16,39.87,14,True,SUP-001,6
+SKU-FRU-0113,Organic India Fruits Standard 500ml,Fruits,Fruits Specialties,Organic India,171.75,123.66,7,True,SUP-004,1
+SKU-VEG-0114,Fresh Farm Vegetables Refill Pack of 4,Vegetables,Vegetables Specialties,Fresh Farm,24.44,18.09,3,True,SUP-004,4
+SKU-PER-0115,Dove Personal Care Classic 500g,Personal Care,Personal Care Specialties,Dove,348.24,226.36,730,False,SUP-009,10
+SKU-HOU-0116,Harpic Household Lite Pack of 2,Household,Household Specialties,Harpic,207.68,145.38,730,False,SUP-005,12
+SKU-SNA-0117,Act II Snacks Classic 200g,Snacks,Snacks Specialties,Act II,64.63,46.53,120,False,SUP-013,4
+SKU-BEV-0118,Red Label Beverages Classic 500g,Beverages,Beverages Specialties,Red Label,77.2,54.04,180,False,SUP-003,12
+SKU-CLE-0119,Lizol Cleaning Organic 200g,Cleaning,Cleaning Specialties,Lizol,141.0,95.88,730,False,SUP-005,1
+SKU-BAB-0120,Huggies Baby Care Classic 500ml,Baby Care,Baby Care Specialties,Huggies,492.58,369.44,365,False,SUP-002,24
+SKU-MIL-0121,Nandini Milk Classic 250ml,Milk,Milk Specialties,Nandini,51.26,41.01,4,True,SUP-001,4
+SKU-BRE-0122,Modern Bread Classic 1kg,Bread,Bread Specialties,Modern,27.5,20.62,3,True,SUP-001,6
+SKU-EGG-0123,Suguna Eggs Classic Pack of 4,Eggs,Eggs Specialties,Suguna,58.7,45.79,18,True,SUP-001,24
+SKU-RIC-0124,Kohinoor Rice Classic Pack of 4,Rice,Rice Specialties,Kohinoor,158.8,127.04,365,False,SUP-002,10
+SKU-ATT-0125,Pillsbury Atta Classic 200g,Atta,Atta Specialties,Pillsbury,58.24,47.76,180,False,SUP-002,24
+SKU-BIS-0126,Oreo Biscuits Standard 1kg,Biscuits,Biscuits Specialties,Oreo,36.17,26.04,180,False,SUP-015,6
+SKU-CHI-0127,Kurkure Chips Refill Pack of 4,Chips,Chips Specialties,Kurkure,49.07,34.35,120,False,SUP-006,10
+SKU-SOF-0128,Thums Up Soft Drinks Family Pack 500g,Soft Drinks,Soft Drinks Specialties,Thums Up,86.46,62.25,180,False,SUP-003,10
+SKU-WAT-0129,Himalayan Water Classic Pack of 2,Water,Water Specialties,Himalayan,27.2,17.68,365,False,SUP-003,10
+SKU-CHO-0130,Cadbury Dairy Milk Chocolate Family Pack 500ml,Chocolate,Chocolate Specialties,Cadbury Dairy Milk,78.79,53.58,180,False,SUP-014,12
+SKU-ICE-0131,Kwality Wall's Ice Cream Fresh Batch Pack of 4,Ice Cream,Ice Cream Specialties,Kwality Wall's,117.32,82.12,66,True,SUP-009,6
+SKU-YOG-0132,Nestle Yogurt Crunchy Pack of 4,Yogurt,Yogurt Specialties,Nestle,70.6,52.95,10,True,SUP-001,6
+SKU-FRU-0133,Nature Basket Fruits Organic 500ml,Fruits,Fruits Specialties,Nature Basket,101.34,72.96,7,True,SUP-004,1
+SKU-VEG-0134,Fresh Farm Vegetables Lite 1kg,Vegetables,Vegetables Specialties,Fresh Farm,38.65,28.6,3,True,SUP-004,12
+SKU-PER-0135,Nivea Personal Care Premium 250ml,Personal Care,Personal Care Specialties,Nivea,347.75,226.04,730,False,SUP-008,1
+SKU-HOU-0136,Good Knight Household Organic Pack of 4,Household,Household Specialties,Good Knight,376.43,263.5,730,False,SUP-009,24
+SKU-SNA-0137,Balaji Snacks Refill Pack of 4,Snacks,Snacks Specialties,Balaji,88.72,63.88,120,False,SUP-008,12
+SKU-BEV-0138,Red Label Beverages Refill 250ml,Beverages,Beverages Specialties,Red Label,233.98,163.79,180,False,SUP-003,1
+SKU-CLE-0139,Comfort Cleaning Refill 1L,Cleaning,Cleaning Specialties,Comfort,264.55,179.89,730,False,SUP-014,1
+SKU-BAB-0140,Johnson's Baby Baby Care Classic Pack of 4,Baby Care,Baby Care Specialties,Johnson's Baby,578.59,433.94,365,False,SUP-009,10
+SKU-MIL-0141,Mother Dairy Milk Family Pack Pack of 2,Milk,Milk Specialties,Mother Dairy,52.77,42.22,3,True,SUP-001,4
+SKU-BRE-0142,Modern Bread Refill 250ml,Bread,Bread Specialties,Modern,54.96,41.22,4,True,SUP-001,1
+SKU-EGG-0143,Abhi Eggs Eggs Crunchy Pack of 2,Eggs,Eggs Specialties,Abhi Eggs,77.03,60.08,16,True,SUP-001,10
+SKU-RIC-0144,India Gate Rice Organic 1L,Rice,Rice Specialties,India Gate,236.55,189.24,365,False,SUP-002,1
+SKU-ATT-0145,Patanjali Atta Crunchy 200g,Atta,Atta Specialties,Patanjali,149.75,122.8,180,False,SUP-002,24
+SKU-BIS-0146,Britannia Good Day Biscuits Premium Pack of 4,Biscuits,Biscuits Specialties,Britannia Good Day,50.17,36.12,180,False,SUP-006,12
+SKU-CHI-0147,Doritos Chips Premium 1L,Chips,Chips Specialties,Doritos,45.57,31.9,120,False,SUP-006,24
+SKU-SOF-0148,Fanta Soft Drinks Crunchy 200g,Soft Drinks,Soft Drinks Specialties,Fanta,72.05,51.88,180,False,SUP-003,24
+SKU-WAT-0149,Bisleri Water Lite 500g,Water,Water Specialties,Bisleri,21.51,13.98,365,False,SUP-003,24
+SKU-CHO-0150,Cadbury Dairy Milk Chocolate Crunchy 1kg,Chocolate,Chocolate Specialties,Cadbury Dairy Milk,123.28,83.83,180,False,SUP-001,6
+SKU-ICE-0151,Kwality Wall's Ice Cream Classic 1L,Ice Cream,Ice Cream Specialties,Kwality Wall's,110.6,77.42,64,True,SUP-004,12
+SKU-YOG-0152,Milky Mist Yogurt Organic 1kg,Yogurt,Yogurt Specialties,Milky Mist,35.5,26.62,13,True,SUP-001,12
+SKU-FRU-0153,Organic India Fruits Crunchy 1kg,Fruits,Fruits Specialties,Organic India,72.51,52.21,6,True,SUP-004,10
+SKU-VEG-0154,Daily Greens Vegetables Standard Pack of 4,Vegetables,Vegetables Specialties,Daily Greens,74.07,54.81,4,True,SUP-004,1
+SKU-PER-0155,Nivea Personal Care Family Pack 500ml,Personal Care,Personal Care Specialties,Nivea,245.29,159.44,730,False,SUP-012,6
+SKU-HOU-0156,Colin Household Classic 250ml,Household,Household Specialties,Colin,399.78,279.85,730,False,SUP-002,4
+SKU-SNA-0157,Act II Snacks Family Pack 500ml,Snacks,Snacks Specialties,Act II,89.52,64.45,120,False,SUP-001,24
+SKU-BEV-0158,Bru Beverages Classic 200g,Beverages,Beverages Specialties,Bru,161.02,112.71,180,False,SUP-003,12
+SKU-CLE-0159,Dettol Disinfectant Cleaning Classic 250ml,Cleaning,Cleaning Specialties,Dettol Disinfectant,187.66,127.61,730,False,SUP-004,24
+SKU-BAB-0160,Huggies Baby Care Classic 1kg,Baby Care,Baby Care Specialties,Huggies,452.97,339.73,365,False,SUP-005,10
+SKU-MIL-0161,Amul Milk Family Pack 1kg,Milk,Milk Specialties,Amul,34.51,27.61,3,True,SUP-001,6
+SKU-BRE-0162,Bonn Bread Organic 250ml,Bread,Bread Specialties,Bonn,29.63,22.22,5,True,SUP-001,6
+SKU-EGG-0163,Suguna Eggs Fresh Batch 500ml,Eggs,Eggs Specialties,Suguna,108.13,84.34,18,True,SUP-001,10
+SKU-RIC-0164,Fortune Rice Family Pack 500g,Rice,Rice Specialties,Fortune,164.3,131.44,365,False,SUP-002,4
+SKU-ATT-0165,Fortune Chakki Atta Refill 1L,Atta,Atta Specialties,Fortune Chakki,58.09,47.63,180,False,SUP-002,1
+SKU-BIS-0166,Oreo Biscuits Fresh Batch 500g,Biscuits,Biscuits Specialties,Oreo,35.47,25.54,180,False,SUP-010,10
+SKU-CHI-0167,Bingo Chips Premium 250ml,Chips,Chips Specialties,Bingo,34.14,23.9,120,False,SUP-015,12
+SKU-SOF-0168,Pepsi Soft Drinks Premium Pack of 4,Soft Drinks,Soft Drinks Specialties,Pepsi,89.56,64.48,180,False,SUP-003,24
+SKU-WAT-0169,Himalayan Water Premium 1kg,Water,Water Specialties,Himalayan,15.68,10.19,365,False,SUP-003,6
+SKU-CHO-0170,Amul Dark Chocolate Premium 500g,Chocolate,Chocolate Specialties,Amul Dark,68.18,46.36,180,False,SUP-007,10
+SKU-ICE-0171,Havmor Ice Cream Fresh Batch Pack of 2,Ice Cream,Ice Cream Specialties,Havmor,147.78,103.45,83,True,SUP-003,10
+SKU-YOG-0172,Epigamia Yogurt Crunchy Pack of 2,Yogurt,Yogurt Specialties,Epigamia,81.34,61.01,11,True,SUP-001,1
+SKU-FRU-0173,Zespri Fruits Lite Pack of 4,Fruits,Fruits Specialties,Zespri,102.26,73.63,5,True,SUP-004,6
+SKU-VEG-0174,Fresh Farm Vegetables Family Pack 1L,Vegetables,Vegetables Specialties,Fresh Farm,23.63,17.49,5,True,SUP-004,4
+SKU-PER-0175,Dettol Personal Care Crunchy 500g,Personal Care,Personal Care Specialties,Dettol,252.2,163.93,730,False,SUP-001,6
+SKU-HOU-0176,Surf Excel Household Organic 250ml,Household,Household Specialties,Surf Excel,74.01,51.81,730,False,SUP-010,4
+SKU-SNA-0177,Bikaji Snacks Family Pack 1kg,Snacks,Snacks Specialties,Bikaji,76.26,54.91,120,False,SUP-005,4
+SKU-BEV-0178,Red Label Beverages Fresh Batch 500ml,Beverages,Beverages Specialties,Red Label,208.7,146.09,180,False,SUP-003,24
+SKU-CLE-0179,Lizol Cleaning Organic 200g,Cleaning,Cleaning Specialties,Lizol,129.19,87.85,730,False,SUP-010,6
+SKU-BAB-0180,Pampers Baby Care Organic 500ml,Baby Care,Baby Care Specialties,Pampers,147.77,110.83,365,False,SUP-009,1
+SKU-MIL-0181,Amul Milk Crunchy Pack of 4,Milk,Milk Specialties,Amul,68.9,55.12,4,True,SUP-001,12
+SKU-BRE-0182,Britannia Bread Crunchy 250ml,Bread,Bread Specialties,Britannia,58.09,43.57,3,True,SUP-001,24
+SKU-EGG-0183,Suguna Eggs Classic Pack of 4,Eggs,Eggs Specialties,Suguna,95.03,74.12,14,True,SUP-001,1
+SKU-RIC-0184,Kohinoor Rice Refill Pack of 2,Rice,Rice Specialties,Kohinoor,203.5,162.8,365,False,SUP-002,24
+SKU-ATT-0185,Nature Fresh Atta Premium 500g,Atta,Atta Specialties,Nature Fresh,91.71,75.2,180,False,SUP-002,1
+SKU-BIS-0186,Britannia Good Day Biscuits Classic 1L,Biscuits,Biscuits Specialties,Britannia Good Day,32.14,23.14,180,False,SUP-008,12
+SKU-CHI-0187,Pringles Chips Refill 500g,Chips,Chips Specialties,Pringles,43.79,30.65,120,False,SUP-014,24
+SKU-SOF-0188,Fanta Soft Drinks Fresh Batch 250ml,Soft Drinks,Soft Drinks Specialties,Fanta,60.8,43.78,180,False,SUP-003,10
+SKU-WAT-0189,Bisleri Water Crunchy Pack of 2,Water,Water Specialties,Bisleri,21.24,13.81,365,False,SUP-003,6
+SKU-CHO-0190,Amul Dark Chocolate Family Pack 500ml,Chocolate,Chocolate Specialties,Amul Dark,84.92,57.75,180,False,SUP-011,10
+SKU-ICE-0191,Kwality Wall's Ice Cream Premium 500g,Ice Cream,Ice Cream Specialties,Kwality Wall's,61.32,42.92,63,True,SUP-012,24
+SKU-YOG-0192,Mother Dairy Yogurt Organic 200g,Yogurt,Yogurt Specialties,Mother Dairy,60.19,45.14,12,True,SUP-001,24
+SKU-FRU-0193,Fresh Farm Fruits Refill 1L,Fruits,Fruits Specialties,Fresh Farm,162.31,116.86,7,True,SUP-004,24
+SKU-VEG-0194,Fresh Farm Vegetables Classic 500ml,Vegetables,Vegetables Specialties,Fresh Farm,41.1,30.41,4,True,SUP-004,4
+SKU-PER-0195,Pears Personal Care Crunchy 250ml,Personal Care,Personal Care Specialties,Pears,305.71,198.71,730,False,SUP-014,12
+SKU-HOU-0196,Ariel Household Premium 500ml,Household,Household Specialties,Ariel,250.94,175.66,730,False,SUP-014,12
+SKU-SNA-0197,Cornitos Snacks Fresh Batch 200g,Snacks,Snacks Specialties,Cornitos,64.58,46.5,120,False,SUP-001,4
+SKU-BEV-0198,Nescafe Beverages Classic 1L,Beverages,Beverages Specialties,Nescafe,116.96,81.87,180,False,SUP-003,4
+SKU-CLE-0199,Scotch-Brite Cleaning Refill 500g,Cleaning,Cleaning Specialties,Scotch-Brite,78.34,53.27,730,False,SUP-002,24
+SKU-BAB-0200,MamyPoko Baby Care Lite Pack of 2,Baby Care,Baby Care Specialties,MamyPoko,342.51,256.88,365,False,SUP-003,6
+SKU-MIL-0201,Mother Dairy Milk Family Pack 500g,Milk,Milk Specialties,Mother Dairy,74.17,59.34,2,True,SUP-001,4
+SKU-BRE-0202,The Health Factory Bread Standard 500g,Bread,Bread Specialties,The Health Factory,34.52,25.89,5,True,SUP-001,10
+SKU-EGG-0203,Farm Fresh Eggs Crunchy Pack of 2,Eggs,Eggs Specialties,Farm Fresh,69.12,53.91,15,True,SUP-001,6
+SKU-RIC-0204,Kohinoor Rice Premium 500ml,Rice,Rice Specialties,Kohinoor,202.08,161.66,365,False,SUP-002,12
+SKU-ATT-0205,Pillsbury Atta Standard 250ml,Atta,Atta Specialties,Pillsbury,102.31,83.89,180,False,SUP-002,1
+SKU-BIS-0206,Britannia Good Day Biscuits Classic 250ml,Biscuits,Biscuits Specialties,Britannia Good Day,49.53,35.66,180,False,SUP-005,6
+SKU-CHI-0207,Lay's Chips Standard Pack of 4,Chips,Chips Specialties,Lay's,42.41,29.69,120,False,SUP-003,10
+SKU-SOF-0208,Limca Soft Drinks Lite 1L,Soft Drinks,Soft Drinks Specialties,Limca,39.32,28.31,180,False,SUP-003,10
+SKU-WAT-0209,Kinley Water Crunchy 500g,Water,Water Specialties,Kinley,27.93,18.15,365,False,SUP-003,12
+SKU-CHO-0210,Amul Dark Chocolate Refill 500ml,Chocolate,Chocolate Specialties,Amul Dark,53.82,36.6,180,False,SUP-006,4
+SKU-ICE-0211,Baskin Robbins Ice Cream Crunchy 1L,Ice Cream,Ice Cream Specialties,Baskin Robbins,60.42,42.29,87,True,SUP-002,4
+SKU-YOG-0212,Milky Mist Yogurt Refill 500g,Yogurt,Yogurt Specialties,Milky Mist,48.75,36.56,11,True,SUP-001,24
+SKU-FRU-0213,Zespri Fruits Lite 1L,Fruits,Fruits Specialties,Zespri,149.08,107.34,4,True,SUP-004,12
+SKU-VEG-0214,Fresh Farm Vegetables Fresh Batch 250ml,Vegetables,Vegetables Specialties,Fresh Farm,74.36,55.03,5,True,SUP-004,6
+SKU-PER-0215,Pears Personal Care Organic 250ml,Personal Care,Personal Care Specialties,Pears,89.81,58.38,730,False,SUP-004,4
+SKU-HOU-0216,Harpic Household Organic 500g,Household,Household Specialties,Harpic,112.0,78.4,730,False,SUP-008,12
+SKU-SNA-0217,Cornitos Snacks Crunchy 1L,Snacks,Snacks Specialties,Cornitos,81.18,58.45,120,False,SUP-003,10
+SKU-BEV-0218,Tata Tea Beverages Crunchy Pack of 4,Beverages,Beverages Specialties,Tata Tea,174.43,122.1,180,False,SUP-003,12
+SKU-CLE-0219,Lizol Cleaning Family Pack 500g,Cleaning,Cleaning Specialties,Lizol,117.95,80.21,730,False,SUP-001,1
+SKU-BAB-0220,Johnson's Baby Baby Care Classic 500g,Baby Care,Baby Care Specialties,Johnson's Baby,461.67,346.25,365,False,SUP-010,12
+SKU-MIL-0221,Country Delight Milk Refill Pack of 4,Milk,Milk Specialties,Country Delight,59.02,47.22,4,True,SUP-001,1
+SKU-BRE-0222,Bonn Bread Lite 1L,Bread,Bread Specialties,Bonn,46.18,34.63,5,True,SUP-001,4
+SKU-EGG-0223,Eggoz Eggs Crunchy 500g,Eggs,Eggs Specialties,Eggoz,106.77,83.28,19,True,SUP-001,24
+SKU-RIC-0224,India Gate Rice Fresh Batch 1kg,Rice,Rice Specialties,India Gate,87.05,69.64,365,False,SUP-002,10
+SKU-ATT-0225,Patanjali Atta Fresh Batch 1kg,Atta,Atta Specialties,Patanjali,97.77,80.17,180,False,SUP-002,10
+SKU-BIS-0226,Sunfeast Dark Fantasy Biscuits Family Pack 200g,Biscuits,Biscuits Specialties,Sunfeast Dark Fantasy,50.52,36.37,180,False,SUP-002,6
+SKU-CHI-0227,Lay's Chips Fresh Batch Pack of 2,Chips,Chips Specialties,Lay's,28.52,19.96,120,False,SUP-006,1
+SKU-SOF-0228,Limca Soft Drinks Organic 1L,Soft Drinks,Soft Drinks Specialties,Limca,53.61,38.6,180,False,SUP-003,4
+SKU-WAT-0229,Vedica Water Premium 500ml,Water,Water Specialties,Vedica,23.38,15.2,365,False,SUP-003,4
+SKU-CHO-0230,Nestle Munch Chocolate Premium Pack of 2,Chocolate,Chocolate Specialties,Nestle Munch,101.02,68.69,180,False,SUP-006,6
+SKU-ICE-0231,Amul Ice Cream Lite 1L,Ice Cream,Ice Cream Specialties,Amul,210.84,147.59,75,True,SUP-004,4
+SKU-YOG-0232,Amul Yogurt Organic 500g,Yogurt,Yogurt Specialties,Amul,42.75,32.06,8,True,SUP-001,12
+SKU-FRU-0233,Nature Basket Fruits Fresh Batch 200g,Fruits,Fruits Specialties,Nature Basket,132.67,95.52,5,True,SUP-004,12
+SKU-VEG-0234,Organic Mandi Vegetables Organic 1kg,Vegetables,Vegetables Specialties,Organic Mandi,30.85,22.83,4,True,SUP-004,24
+SKU-PER-0235,Nivea Personal Care Standard Pack of 2,Personal Care,Personal Care Specialties,Nivea,165.65,107.67,730,False,SUP-008,12
+SKU-HOU-0236,Ariel Household Crunchy 250ml,Household,Household Specialties,Ariel,236.9,165.83,730,False,SUP-013,10
+SKU-SNA-0237,Bikaji Snacks Family Pack Pack of 4,Snacks,Snacks Specialties,Bikaji,55.01,39.61,120,False,SUP-013,10
+SKU-BEV-0238,Tetley Beverages Fresh Batch Pack of 2,Beverages,Beverages Specialties,Tetley,243.08,170.16,180,False,SUP-003,12
+SKU-CLE-0239,Pril Cleaning Classic 200g,Cleaning,Cleaning Specialties,Pril,195.68,133.06,730,False,SUP-009,1
+SKU-BAB-0240,MamyPoko Baby Care Premium 500ml,Baby Care,Baby Care Specialties,MamyPoko,164.45,123.34,365,False,SUP-005,10
+SKU-MIL-0241,Country Delight Milk Organic Pack of 2,Milk,Milk Specialties,Country Delight,34.59,27.67,2,True,SUP-001,10
+SKU-BRE-0242,English Oven Bread Standard Pack of 2,Bread,Bread Specialties,English Oven,26.86,20.14,5,True,SUP-001,6
+SKU-EGG-0243,Hen Fruit Eggs Refill 500g,Eggs,Eggs Specialties,Hen Fruit,76.24,59.47,14,True,SUP-001,6
+SKU-RIC-0244,India Gate Rice Family Pack 1kg,Rice,Rice Specialties,India Gate,104.77,83.82,365,False,SUP-002,10
+SKU-ATT-0245,Fortune Chakki Atta Crunchy Pack of 4,Atta,Atta Specialties,Fortune Chakki,134.23,110.07,180,False,SUP-002,1
+SKU-BIS-0246,Oreo Biscuits Lite 1kg,Biscuits,Biscuits Specialties,Oreo,39.7,28.58,180,False,SUP-002,6
+SKU-CHI-0247,Kurkure Chips Classic 500g,Chips,Chips Specialties,Kurkure,21.43,15.0,120,False,SUP-011,12
+SKU-SOF-0248,Sprite Soft Drinks Premium 500g,Soft Drinks,Soft Drinks Specialties,Sprite,85.2,61.34,180,False,SUP-003,12
+SKU-WAT-0249,Vedica Water Standard 250ml,Water,Water Specialties,Vedica,25.78,16.76,365,False,SUP-003,10
+SKU-CHO-0250,Cadbury Dairy Milk Chocolate Family Pack 250ml,Chocolate,Chocolate Specialties,Cadbury Dairy Milk,108.48,73.77,180,False,SUP-011,24
+SKU-ICE-0251,Kwality Wall's Ice Cream Fresh Batch 1L,Ice Cream,Ice Cream Specialties,Kwality Wall's,56.84,39.79,76,True,SUP-009,12
+SKU-YOG-0252,Nestle Yogurt Fresh Batch 200g,Yogurt,Yogurt Specialties,Nestle,48.43,36.32,14,True,SUP-001,1
+SKU-FRU-0253,Driscoll's Fruits Family Pack 500ml,Fruits,Fruits Specialties,Driscoll's,144.62,104.13,6,True,SUP-004,1
+SKU-VEG-0254,Daily Greens Vegetables Lite 500g,Vegetables,Vegetables Specialties,Daily Greens,66.29,49.05,5,True,SUP-004,4
+SKU-PER-0255,Dettol Personal Care Family Pack 1L,Personal Care,Personal Care Specialties,Dettol,295.92,192.35,730,False,SUP-014,24
+SKU-HOU-0256,Colin Household Crunchy 1kg,Household,Household Specialties,Colin,334.02,233.81,730,False,SUP-012,10
+SKU-SNA-0257,Haldiram's Snacks Classic 250ml,Snacks,Snacks Specialties,Haldiram's,27.85,20.05,120,False,SUP-015,1
+SKU-BEV-0258,Nescafe Beverages Classic Pack of 2,Beverages,Beverages Specialties,Nescafe,247.77,173.44,180,False,SUP-003,6
+SKU-CLE-0259,Lizol Cleaning Lite 500ml,Cleaning,Cleaning Specialties,Lizol,128.89,87.65,730,False,SUP-014,24
+SKU-BAB-0260,Johnson's Baby Baby Care Classic 500g,Baby Care,Baby Care Specialties,Johnson's Baby,543.65,407.74,365,False,SUP-015,10
+SKU-MIL-0261,Nestle Milk Refill 1L,Milk,Milk Specialties,Nestle,78.69,62.95,3,True,SUP-001,24
+SKU-BRE-0262,Bonn Bread Family Pack 500ml,Bread,Bread Specialties,Bonn,53.04,39.78,5,True,SUP-001,10
+SKU-EGG-0263,Eggoz Eggs Refill 1kg,Eggs,Eggs Specialties,Eggoz,88.18,68.78,19,True,SUP-001,1
+SKU-RIC-0264,India Gate Rice Family Pack 500ml,Rice,Rice Specialties,India Gate,135.17,108.14,365,False,SUP-002,4
+SKU-ATT-0265,Nature Fresh Atta Family Pack Pack of 4,Atta,Atta Specialties,Nature Fresh,51.14,41.93,180,False,SUP-002,12
+SKU-BIS-0266,Sunfeast Dark Fantasy Biscuits Classic 200g,Biscuits,Biscuits Specialties,Sunfeast Dark Fantasy,18.38,13.23,180,False,SUP-006,12
+SKU-CHI-0267,Kurkure Chips Standard 1kg,Chips,Chips Specialties,Kurkure,45.46,31.82,120,False,SUP-001,4
+SKU-SOF-0268,Coca-Cola Soft Drinks Lite 1L,Soft Drinks,Soft Drinks Specialties,Coca-Cola,56.73,40.85,180,False,SUP-003,12
+SKU-WAT-0269,Aquafina Water Crunchy 1L,Water,Water Specialties,Aquafina,20.58,13.38,365,False,SUP-003,12
+SKU-CHO-0270,KitKat Chocolate Fresh Batch 1L,Chocolate,Chocolate Specialties,KitKat,87.76,59.68,180,False,SUP-004,1
+SKU-ICE-0271,Kwality Wall's Ice Cream Organic Pack of 4,Ice Cream,Ice Cream Specialties,Kwality Wall's,135.61,94.93,89,True,SUP-009,1
+SKU-YOG-0272,Mother Dairy Yogurt Classic Pack of 4,Yogurt,Yogurt Specialties,Mother Dairy,37.87,28.4,11,True,SUP-001,24
+SKU-FRU-0273,Driscoll's Fruits Lite 500g,Fruits,Fruits Specialties,Driscoll's,59.0,42.48,4,True,SUP-004,10
+SKU-VEG-0274,Green Harvest Vegetables Crunchy 500g,Vegetables,Vegetables Specialties,Green Harvest,68.63,50.79,5,True,SUP-004,24
+SKU-PER-0275,Colgate Personal Care Premium 500ml,Personal Care,Personal Care Specialties,Colgate,318.49,207.02,730,False,SUP-012,24
+SKU-HOU-0276,Good Knight Household Organic 1L,Household,Household Specialties,Good Knight,228.06,159.64,730,False,SUP-004,4
+SKU-SNA-0277,Bikaji Snacks Crunchy 200g,Snacks,Snacks Specialties,Bikaji,48.46,34.89,120,False,SUP-008,12
+SKU-BEV-0278,Red Label Beverages Premium 500g,Beverages,Beverages Specialties,Red Label,108.4,75.88,180,False,SUP-003,12
+SKU-CLE-0279,Dettol Disinfectant Cleaning Refill 500g,Cleaning,Cleaning Specialties,Dettol Disinfectant,74.45,50.63,730,False,SUP-011,1
+SKU-BAB-0280,Sebamed Baby Care Crunchy 1L,Baby Care,Baby Care Specialties,Sebamed,188.02,141.02,365,False,SUP-013,4
+SKU-MIL-0281,Nestle Milk Fresh Batch 200g,Milk,Milk Specialties,Nestle,71.57,57.26,4,True,SUP-001,4
+SKU-BRE-0282,English Oven Bread Organic 1kg,Bread,Bread Specialties,English Oven,36.29,27.22,5,True,SUP-001,4
+SKU-EGG-0283,Abhi Eggs Eggs Fresh Batch 500ml,Eggs,Eggs Specialties,Abhi Eggs,109.22,85.19,18,True,SUP-001,4
+SKU-RIC-0284,Royal Rice Classic 1kg,Rice,Rice Specialties,Royal,192.5,154.0,365,False,SUP-002,12
+SKU-ATT-0285,Fortune Chakki Atta Organic 1kg,Atta,Atta Specialties,Fortune Chakki,140.52,115.23,180,False,SUP-002,12
+SKU-BIS-0286,Parle-G Biscuits Standard 500g,Biscuits,Biscuits Specialties,Parle-G,17.05,12.28,180,False,SUP-011,4
+SKU-CHI-0287,Pringles Chips Refill 200g,Chips,Chips Specialties,Pringles,34.94,24.46,120,False,SUP-011,6
+SKU-SOF-0288,Sprite Soft Drinks Lite Pack of 2,Soft Drinks,Soft Drinks Specialties,Sprite,52.85,38.05,180,False,SUP-003,24
+SKU-WAT-0289,Kinley Water Organic Pack of 4,Water,Water Specialties,Kinley,21.23,13.8,365,False,SUP-003,4
+SKU-CHO-0290,Ferrero Rocher Chocolate Organic 1L,Chocolate,Chocolate Specialties,Ferrero Rocher,143.38,97.5,180,False,SUP-012,6
+SKU-ICE-0291,Vadilal Ice Cream Organic 1L,Ice Cream,Ice Cream Specialties,Vadilal,135.12,94.58,63,True,SUP-006,4
+SKU-YOG-0292,Milky Mist Yogurt Premium 500ml,Yogurt,Yogurt Specialties,Milky Mist,51.98,38.98,9,True,SUP-001,1
+SKU-FRU-0293,Fresh Farm Fruits Classic Pack of 2,Fruits,Fruits Specialties,Fresh Farm,160.98,115.91,7,True,SUP-004,4
+SKU-VEG-0294,Green Harvest Vegetables Family Pack 1L,Vegetables,Vegetables Specialties,Green Harvest,31.39,23.23,4,True,SUP-004,10
+SKU-PER-0295,Himalaya Personal Care Crunchy Pack of 4,Personal Care,Personal Care Specialties,Himalaya,314.93,204.7,730,False,SUP-001,1
+SKU-HOU-0296,Colin Household Fresh Batch Pack of 4,Household,Household Specialties,Colin,388.34,271.84,730,False,SUP-010,6
+SKU-SNA-0297,Haldiram's Snacks Standard 500ml,Snacks,Snacks Specialties,Haldiram's,57.17,41.16,120,False,SUP-005,12
+SKU-BEV-0298,Tata Tea Beverages Premium Pack of 2,Beverages,Beverages Specialties,Tata Tea,72.46,50.72,180,False,SUP-003,24
+SKU-CLE-0299,Comfort Cleaning Refill 1L,Cleaning,Cleaning Specialties,Comfort,55.63,37.83,730,False,SUP-010,12
+SKU-BAB-0300,Huggies Baby Care Family Pack 500ml,Baby Care,Baby Care Specialties,Huggies,158.97,119.23,365,False,SUP-013,12
+SKU-MIL-0301,Mother Dairy Milk Premium 1kg,Milk,Milk Specialties,Mother Dairy,78.75,63.0,3,True,SUP-001,6
+SKU-BRE-0302,English Oven Bread Fresh Batch 1L,Bread,Bread Specialties,English Oven,51.42,38.56,3,True,SUP-001,12
+SKU-EGG-0303,Suguna Eggs Refill 200g,Eggs,Eggs Specialties,Suguna,53.17,41.47,16,True,SUP-001,24
+SKU-RIC-0304,Fortune Rice Crunchy Pack of 4,Rice,Rice Specialties,Fortune,106.81,85.45,365,False,SUP-002,6
+SKU-ATT-0305,Patanjali Atta Family Pack 1kg,Atta,Atta Specialties,Patanjali,101.98,83.62,180,False,SUP-002,12
+SKU-BIS-0306,Oreo Biscuits Fresh Batch Pack of 4,Biscuits,Biscuits Specialties,Oreo,46.89,33.76,180,False,SUP-008,1
+SKU-CHI-0307,Bingo Chips Family Pack 500g,Chips,Chips Specialties,Bingo,49.4,34.58,120,False,SUP-013,24
+SKU-SOF-0308,Fanta Soft Drinks Standard Pack of 4,Soft Drinks,Soft Drinks Specialties,Fanta,50.93,36.67,180,False,SUP-003,24
+SKU-WAT-0309,Kinley Water Crunchy 1kg,Water,Water Specialties,Kinley,22.86,14.86,365,False,SUP-003,4
+SKU-CHO-0310,KitKat Chocolate Standard 500g,Chocolate,Chocolate Specialties,KitKat,62.89,42.77,180,False,SUP-006,10
+SKU-ICE-0311,Amul Ice Cream Refill 250ml,Ice Cream,Ice Cream Specialties,Amul,116.82,81.77,84,True,SUP-010,10
+SKU-YOG-0312,Epigamia Yogurt Organic 250ml,Yogurt,Yogurt Specialties,Epigamia,58.65,43.99,14,True,SUP-001,12
+SKU-FRU-0313,Driscoll's Fruits Family Pack 1kg,Fruits,Fruits Specialties,Driscoll's,104.35,75.13,6,True,SUP-004,12
+SKU-VEG-0314,Daily Greens Vegetables Classic Pack of 4,Vegetables,Vegetables Specialties,Daily Greens,31.54,23.34,4,True,SUP-004,6
+SKU-PER-0315,Himalaya Personal Care Classic 250ml,Personal Care,Personal Care Specialties,Himalaya,333.03,216.47,730,False,SUP-013,6
+SKU-HOU-0316,Good Knight Household Lite Pack of 4,Household,Household Specialties,Good Knight,160.96,112.67,730,False,SUP-009,24
+SKU-SNA-0317,Balaji Snacks Classic 500g,Snacks,Snacks Specialties,Balaji,62.28,44.84,120,False,SUP-015,10
+SKU-BEV-0318,Nescafe Beverages Organic 500ml,Beverages,Beverages Specialties,Nescafe,53.62,37.53,180,False,SUP-003,6
+SKU-CLE-0319,Dettol Disinfectant Cleaning Classic Pack of 4,Cleaning,Cleaning Specialties,Dettol Disinfectant,95.29,64.8,730,False,SUP-015,12
+SKU-BAB-0320,Johnson's Baby Baby Care Organic 500g,Baby Care,Baby Care Specialties,Johnson's Baby,446.31,334.73,365,False,SUP-004,1
+SKU-MIL-0321,Country Delight Milk Lite 250ml,Milk,Milk Specialties,Country Delight,32.62,26.1,3,True,SUP-001,6
+SKU-BRE-0322,Bonn Bread Premium 1kg,Bread,Bread Specialties,Bonn,25.18,18.88,5,True,SUP-001,4
+SKU-EGG-0323,Farm Fresh Eggs Crunchy Pack of 4,Eggs,Eggs Specialties,Farm Fresh,95.54,74.52,18,True,SUP-001,6
+SKU-RIC-0324,Fortune Rice Standard 500g,Rice,Rice Specialties,Fortune,197.41,157.93,365,False,SUP-002,12
+SKU-ATT-0325,Aashirvaad Atta Organic Pack of 2,Atta,Atta Specialties,Aashirvaad,172.93,141.8,180,False,SUP-002,1
+SKU-BIS-0326,Sunfeast Dark Fantasy Biscuits Crunchy 1kg,Biscuits,Biscuits Specialties,Sunfeast Dark Fantasy,57.15,41.15,180,False,SUP-015,1
+SKU-CHI-0327,Lay's Chips Classic 500g,Chips,Chips Specialties,Lay's,47.85,33.49,120,False,SUP-005,10
+SKU-SOF-0328,Fanta Soft Drinks Fresh Batch Pack of 4,Soft Drinks,Soft Drinks Specialties,Fanta,88.36,63.62,180,False,SUP-003,12
+SKU-WAT-0329,Himalayan Water Classic 250ml,Water,Water Specialties,Himalayan,27.13,17.63,365,False,SUP-003,4
+SKU-CHO-0330,Amul Dark Chocolate Classic 1kg,Chocolate,Chocolate Specialties,Amul Dark,41.69,28.35,180,False,SUP-013,6
+SKU-ICE-0331,Baskin Robbins Ice Cream Lite 1kg,Ice Cream,Ice Cream Specialties,Baskin Robbins,151.92,106.34,80,True,SUP-015,10
+SKU-YOG-0332,Milky Mist Yogurt Fresh Batch 1L,Yogurt,Yogurt Specialties,Milky Mist,30.2,22.65,8,True,SUP-001,4
+SKU-FRU-0333,Organic India Fruits Crunchy 1L,Fruits,Fruits Specialties,Organic India,171.02,123.13,4,True,SUP-004,6
+SKU-VEG-0334,Organic Mandi Vegetables Lite Pack of 4,Vegetables,Vegetables Specialties,Organic Mandi,65.23,48.27,5,True,SUP-004,6
+SKU-PER-0335,Himalaya Personal Care Standard 500ml,Personal Care,Personal Care Specialties,Himalaya,249.57,162.22,730,False,SUP-001,24
+SKU-HOU-0336,Vim Household Crunchy 500ml,Household,Household Specialties,Vim,105.9,74.13,730,False,SUP-012,1
+SKU-SNA-0337,Balaji Snacks Family Pack 250ml,Snacks,Snacks Specialties,Balaji,39.24,28.25,120,False,SUP-008,4
+SKU-BEV-0338,Bru Beverages Family Pack Pack of 2,Beverages,Beverages Specialties,Bru,188.9,132.23,180,False,SUP-003,12
+SKU-CLE-0339,Pril Cleaning Lite 500g,Cleaning,Cleaning Specialties,Pril,168.49,114.57,730,False,SUP-002,12
+SKU-BAB-0340,Pampers Baby Care Standard 250ml,Baby Care,Baby Care Specialties,Pampers,423.53,317.65,365,False,SUP-003,6
+SKU-MIL-0341,Country Delight Milk Crunchy 500g,Milk,Milk Specialties,Country Delight,64.01,51.21,4,True,SUP-001,12
+SKU-BRE-0342,Bonn Bread Premium Pack of 4,Bread,Bread Specialties,Bonn,53.3,39.97,4,True,SUP-001,4
+SKU-EGG-0343,Suguna Eggs Refill Pack of 4,Eggs,Eggs Specialties,Suguna,89.47,69.79,21,True,SUP-001,24
+SKU-RIC-0344,Fortune Rice Standard Pack of 2,Rice,Rice Specialties,Fortune,125.8,100.64,365,False,SUP-002,24
+SKU-ATT-0345,Fortune Chakki Atta Premium 200g,Atta,Atta Specialties,Fortune Chakki,106.44,87.28,180,False,SUP-002,12
+SKU-BIS-0346,Parle-G Biscuits Premium Pack of 4,Biscuits,Biscuits Specialties,Parle-G,16.43,11.83,180,False,SUP-003,4
+SKU-CHI-0347,Doritos Chips Family Pack Pack of 2,Chips,Chips Specialties,Doritos,33.46,23.42,120,False,SUP-007,1
+SKU-SOF-0348,Fanta Soft Drinks Fresh Batch 1kg,Soft Drinks,Soft Drinks Specialties,Fanta,74.21,53.43,180,False,SUP-003,1
+SKU-WAT-0349,Aquafina Water Fresh Batch Pack of 2,Water,Water Specialties,Aquafina,22.93,14.9,365,False,SUP-003,1
+SKU-CHO-0350,Cadbury Dairy Milk Chocolate Classic Pack of 4,Chocolate,Chocolate Specialties,Cadbury Dairy Milk,120.82,82.16,180,False,SUP-009,10
+SKU-ICE-0351,Amul Ice Cream Lite Pack of 4,Ice Cream,Ice Cream Specialties,Amul,105.58,73.91,68,True,SUP-004,24
+SKU-YOG-0352,Epigamia Yogurt Standard Pack of 2,Yogurt,Yogurt Specialties,Epigamia,61.9,46.42,7,True,SUP-001,4
+SKU-FRU-0353,Organic India Fruits Premium 500g,Fruits,Fruits Specialties,Organic India,123.15,88.67,7,True,SUP-004,12
+SKU-VEG-0354,Fresh Farm Vegetables Lite 200g,Vegetables,Vegetables Specialties,Fresh Farm,44.14,32.66,4,True,SUP-004,12
+SKU-PER-0355,Dove Personal Care Standard 1kg,Personal Care,Personal Care Specialties,Dove,206.13,133.98,730,False,SUP-004,24
+SKU-HOU-0356,Harpic Household Family Pack 1L,Household,Household Specialties,Harpic,132.92,93.04,730,False,SUP-011,12
+SKU-SNA-0357,Bikaji Snacks Refill 500ml,Snacks,Snacks Specialties,Bikaji,42.89,30.88,120,False,SUP-011,24
+SKU-BEV-0358,Bru Beverages Fresh Batch Pack of 4,Beverages,Beverages Specialties,Bru,54.61,38.23,180,False,SUP-003,24
+SKU-CLE-0359,Dettol Disinfectant Cleaning Fresh Batch 1L,Cleaning,Cleaning Specialties,Dettol Disinfectant,208.63,141.87,730,False,SUP-003,6
+SKU-BAB-0360,Sebamed Baby Care Organic Pack of 4,Baby Care,Baby Care Specialties,Sebamed,247.71,185.78,365,False,SUP-005,24
+SKU-MIL-0361,Nandini Milk Crunchy 200g,Milk,Milk Specialties,Nandini,58.12,46.5,3,True,SUP-001,12
+SKU-BRE-0362,The Health Factory Bread Organic Pack of 2,Bread,Bread Specialties,The Health Factory,33.5,25.12,3,True,SUP-001,6
+SKU-EGG-0363,Eggoz Eggs Crunchy 1L,Eggs,Eggs Specialties,Eggoz,56.47,44.05,17,True,SUP-001,1
+SKU-RIC-0364,Fortune Rice Refill 200g,Rice,Rice Specialties,Fortune,237.25,189.8,365,False,SUP-002,12
+SKU-ATT-0365,Patanjali Atta Lite Pack of 4,Atta,Atta Specialties,Patanjali,75.29,61.74,180,False,SUP-002,6
+SKU-BIS-0366,Parle-G Biscuits Lite 250ml,Biscuits,Biscuits Specialties,Parle-G,58.29,41.97,180,False,SUP-012,10
+SKU-CHI-0367,Kurkure Chips Lite Pack of 2,Chips,Chips Specialties,Kurkure,47.45,33.22,120,False,SUP-013,6
+SKU-SOF-0368,Sprite Soft Drinks Crunchy 1L,Soft Drinks,Soft Drinks Specialties,Sprite,53.51,38.53,180,False,SUP-003,12
+SKU-WAT-0369,Himalayan Water Crunchy 500g,Water,Water Specialties,Himalayan,27.04,17.58,365,False,SUP-003,6
+SKU-CHO-0370,KitKat Chocolate Family Pack 1L,Chocolate,Chocolate Specialties,KitKat,89.67,60.98,180,False,SUP-012,4
+SKU-ICE-0371,Kwality Wall's Ice Cream Classic Pack of 2,Ice Cream,Ice Cream Specialties,Kwality Wall's,96.66,67.66,66,True,SUP-006,4
+SKU-YOG-0372,Milky Mist Yogurt Lite Pack of 4,Yogurt,Yogurt Specialties,Milky Mist,58.04,43.53,12,True,SUP-001,6
+SKU-FRU-0373,Driscoll's Fruits Crunchy Pack of 4,Fruits,Fruits Specialties,Driscoll's,63.55,45.76,6,True,SUP-004,4
+SKU-VEG-0374,Green Harvest Vegetables Fresh Batch Pack of 4,Vegetables,Vegetables Specialties,Green Harvest,31.04,22.97,3,True,SUP-004,12
+SKU-PER-0375,Dettol Personal Care Premium 200g,Personal Care,Personal Care Specialties,Dettol,281.66,183.08,730,False,SUP-003,24
+SKU-HOU-0376,Surf Excel Household Premium 1kg,Household,Household Specialties,Surf Excel,53.2,37.24,730,False,SUP-006,1
+SKU-SNA-0377,Cornitos Snacks Crunchy Pack of 4,Snacks,Snacks Specialties,Cornitos,26.02,18.73,120,False,SUP-001,1
+SKU-BEV-0378,Tetley Beverages Classic 500ml,Beverages,Beverages Specialties,Tetley,48.51,33.96,180,False,SUP-003,4
+SKU-CLE-0379,Lizol Cleaning Premium 1kg,Cleaning,Cleaning Specialties,Lizol,101.63,69.11,730,False,SUP-014,6
+SKU-BAB-0380,Johnson's Baby Baby Care Refill 500g,Baby Care,Baby Care Specialties,Johnson's Baby,317.72,238.29,365,False,SUP-008,12
+SKU-MIL-0381,Nandini Milk Lite 500ml,Milk,Milk Specialties,Nandini,64.2,51.36,2,True,SUP-001,24
+SKU-BRE-0382,Britannia Bread Premium Pack of 2,Bread,Bread Specialties,Britannia,38.27,28.7,5,True,SUP-001,10
+SKU-EGG-0383,Eggoz Eggs Standard 1kg,Eggs,Eggs Specialties,Eggoz,55.79,43.52,20,True,SUP-001,24
+SKU-RIC-0384,Fortune Rice Premium 200g,Rice,Rice Specialties,Fortune,121.36,97.09,365,False,SUP-002,6
+SKU-ATT-0385,Aashirvaad Atta Premium 500ml,Atta,Atta Specialties,Aashirvaad,175.4,143.83,180,False,SUP-002,4
+SKU-BIS-0386,Oreo Biscuits Standard 250ml,Biscuits,Biscuits Specialties,Oreo,41.42,29.82,180,False,SUP-015,1
+SKU-CHI-0387,Bingo Chips Organic 250ml,Chips,Chips Specialties,Bingo,37.0,25.9,120,False,SUP-011,12
+SKU-SOF-0388,Thums Up Soft Drinks Refill 1kg,Soft Drinks,Soft Drinks Specialties,Thums Up,82.43,59.35,180,False,SUP-003,12
+SKU-WAT-0389,Bisleri Water Standard 500g,Water,Water Specialties,Bisleri,21.56,14.01,365,False,SUP-003,6
+SKU-CHO-0390,Nestle Munch Chocolate Refill 1L,Chocolate,Chocolate Specialties,Nestle Munch,43.56,29.62,180,False,SUP-013,10
+SKU-ICE-0391,Vadilal Ice Cream Lite 1L,Ice Cream,Ice Cream Specialties,Vadilal,141.78,99.25,72,True,SUP-007,4
+SKU-YOG-0392,Nestle Yogurt Refill 500g,Yogurt,Yogurt Specialties,Nestle,71.33,53.5,11,True,SUP-001,4
+SKU-FRU-0393,Fresh Farm Fruits Premium 500ml,Fruits,Fruits Specialties,Fresh Farm,61.59,44.34,5,True,SUP-004,24
+SKU-VEG-0394,Organic Mandi Vegetables Family Pack 1L,Vegetables,Vegetables Specialties,Organic Mandi,26.39,19.53,3,True,SUP-004,6
+SKU-PER-0395,Nivea Personal Care Family Pack 500ml,Personal Care,Personal Care Specialties,Nivea,89.65,58.27,730,False,SUP-003,10
+SKU-HOU-0396,Colin Household Fresh Batch Pack of 2,Household,Household Specialties,Colin,86.15,60.3,730,False,SUP-006,12
+SKU-SNA-0397,Haldiram's Snacks Family Pack Pack of 2,Snacks,Snacks Specialties,Haldiram's,25.8,18.58,120,False,SUP-007,1
+SKU-BEV-0398,Tetley Beverages Lite 1kg,Beverages,Beverages Specialties,Tetley,185.49,129.84,180,False,SUP-003,4
+SKU-CLE-0399,Comfort Cleaning Classic 500ml,Cleaning,Cleaning Specialties,Comfort,160.88,109.4,730,False,SUP-003,10
+SKU-BAB-0400,Johnson's Baby Baby Care Refill 500ml,Baby Care,Baby Care Specialties,Johnson's Baby,376.64,282.48,365,False,SUP-006,6
+SKU-MIL-0401,Nandini Milk Crunchy 250ml,Milk,Milk Specialties,Nandini,52.89,42.31,2,True,SUP-001,6
+SKU-BRE-0402,Britannia Bread Refill 1L,Bread,Bread Specialties,Britannia,54.46,40.84,4,True,SUP-001,6
+SKU-EGG-0403,Farm Fresh Eggs Family Pack Pack of 2,Eggs,Eggs Specialties,Farm Fresh,107.08,83.52,16,True,SUP-001,6
+SKU-RIC-0404,Fortune Rice Lite Pack of 4,Rice,Rice Specialties,Fortune,136.55,109.24,365,False,SUP-002,6
+SKU-ATT-0405,Pillsbury Atta Crunchy 250ml,Atta,Atta Specialties,Pillsbury,92.25,75.65,180,False,SUP-002,10
+SKU-BIS-0406,Oreo Biscuits Premium 250ml,Biscuits,Biscuits Specialties,Oreo,41.65,29.99,180,False,SUP-011,12
+SKU-CHI-0407,Lay's Chips Crunchy 250ml,Chips,Chips Specialties,Lay's,33.15,23.2,120,False,SUP-014,24
+SKU-SOF-0408,Coca-Cola Soft Drinks Refill Pack of 4,Soft Drinks,Soft Drinks Specialties,Coca-Cola,43.35,31.21,180,False,SUP-003,4
+SKU-WAT-0409,Bisleri Water Organic Pack of 2,Water,Water Specialties,Bisleri,26.84,17.45,365,False,SUP-003,10
+SKU-CHO-0410,Nestle Munch Chocolate Crunchy Pack of 2,Chocolate,Chocolate Specialties,Nestle Munch,104.12,70.8,180,False,SUP-009,1
+SKU-ICE-0411,Havmor Ice Cream Fresh Batch 500g,Ice Cream,Ice Cream Specialties,Havmor,64.14,44.9,67,True,SUP-011,24
+SKU-YOG-0412,Mother Dairy Yogurt Organic 200g,Yogurt,Yogurt Specialties,Mother Dairy,58.79,44.09,13,True,SUP-001,6
+SKU-FRU-0413,Driscoll's Fruits Premium 200g,Fruits,Fruits Specialties,Driscoll's,53.8,38.74,5,True,SUP-004,12
+SKU-VEG-0414,Pure Veg Vegetables Fresh Batch 250ml,Vegetables,Vegetables Specialties,Pure Veg,46.75,34.59,6,True,SUP-004,10
+SKU-PER-0415,Pears Personal Care Fresh Batch 1kg,Personal Care,Personal Care Specialties,Pears,160.04,104.03,730,False,SUP-008,1
+SKU-HOU-0416,Ariel Household Refill 500g,Household,Household Specialties,Ariel,90.62,63.43,730,False,SUP-006,6
+SKU-SNA-0417,Balaji Snacks Crunchy 250ml,Snacks,Snacks Specialties,Balaji,58.87,42.39,120,False,SUP-008,1
+SKU-BEV-0418,Bru Beverages Crunchy 1L,Beverages,Beverages Specialties,Bru,58.77,41.14,180,False,SUP-003,24
+SKU-CLE-0419,Lizol Cleaning Standard 1L,Cleaning,Cleaning Specialties,Lizol,197.27,134.14,730,False,SUP-015,24
+SKU-BAB-0420,Huggies Baby Care Fresh Batch 1kg,Baby Care,Baby Care Specialties,Huggies,412.51,309.38,365,False,SUP-009,10
+SKU-MIL-0421,Nestle Milk Lite Pack of 2,Milk,Milk Specialties,Nestle,61.49,49.19,2,True,SUP-001,24
+SKU-BRE-0422,Bonn Bread Refill 200g,Bread,Bread Specialties,Bonn,50.81,38.11,3,True,SUP-001,10
+SKU-EGG-0423,Suguna Eggs Refill Pack of 2,Eggs,Eggs Specialties,Suguna,50.31,39.24,17,True,SUP-001,4
+SKU-RIC-0424,Fortune Rice Premium 500g,Rice,Rice Specialties,Fortune,223.91,179.13,365,False,SUP-002,6
+SKU-ATT-0425,Pillsbury Atta Lite Pack of 4,Atta,Atta Specialties,Pillsbury,61.52,50.45,180,False,SUP-002,12
+SKU-BIS-0426,Oreo Biscuits Refill Pack of 2,Biscuits,Biscuits Specialties,Oreo,41.42,29.82,180,False,SUP-006,10
+SKU-CHI-0427,Pringles Chips Organic 500ml,Chips,Chips Specialties,Pringles,47.56,33.29,120,False,SUP-011,4
+SKU-SOF-0428,Thums Up Soft Drinks Premium 250ml,Soft Drinks,Soft Drinks Specialties,Thums Up,53.32,38.39,180,False,SUP-003,6
+SKU-WAT-0429,Aquafina Water Fresh Batch Pack of 2,Water,Water Specialties,Aquafina,21.27,13.83,365,False,SUP-003,12
+SKU-CHO-0430,Amul Dark Chocolate Refill 1kg,Chocolate,Chocolate Specialties,Amul Dark,98.4,66.91,180,False,SUP-009,4
+SKU-ICE-0431,Vadilal Ice Cream Classic 1kg,Ice Cream,Ice Cream Specialties,Vadilal,77.74,54.42,86,True,SUP-008,12
+SKU-YOG-0432,Epigamia Yogurt Family Pack 200g,Yogurt,Yogurt Specialties,Epigamia,54.08,40.56,10,True,SUP-001,10
+SKU-FRU-0433,Nature Basket Fruits Fresh Batch Pack of 4,Fruits,Fruits Specialties,Nature Basket,97.28,70.04,7,True,SUP-004,10
+SKU-VEG-0434,Organic Mandi Vegetables Crunchy 1kg,Vegetables,Vegetables Specialties,Organic Mandi,24.96,18.47,3,True,SUP-004,4
+SKU-PER-0435,Colgate Personal Care Standard 500ml,Personal Care,Personal Care Specialties,Colgate,125.2,81.38,730,False,SUP-003,10
+SKU-HOU-0436,Harpic Household Crunchy 500g,Household,Household Specialties,Harpic,250.45,175.31,730,False,SUP-013,12
+SKU-SNA-0437,Balaji Snacks Fresh Batch 200g,Snacks,Snacks Specialties,Balaji,74.4,53.57,120,False,SUP-009,4
+SKU-BEV-0438,Bru Beverages Premium 250ml,Beverages,Beverages Specialties,Bru,106.03,74.22,180,False,SUP-003,10
+SKU-CLE-0439,Comfort Cleaning Family Pack 500g,Cleaning,Cleaning Specialties,Comfort,148.18,100.76,730,False,SUP-013,4
+SKU-BAB-0440,Huggies Baby Care Family Pack Pack of 2,Baby Care,Baby Care Specialties,Huggies,207.97,155.98,365,False,SUP-013,4
+SKU-MIL-0441,Nandini Milk Standard 1L,Milk,Milk Specialties,Nandini,56.61,45.29,4,True,SUP-001,12
+SKU-BRE-0442,Modern Bread Family Pack 500ml,Bread,Bread Specialties,Modern,35.13,26.35,4,True,SUP-001,12
+SKU-EGG-0443,Eggoz Eggs Organic Pack of 2,Eggs,Eggs Specialties,Eggoz,114.31,89.16,18,True,SUP-001,24
+SKU-RIC-0444,Daawat Rice Organic 250ml,Rice,Rice Specialties,Daawat,106.32,85.06,365,False,SUP-002,4
+SKU-ATT-0445,Nature Fresh Atta Crunchy 1kg,Atta,Atta Specialties,Nature Fresh,128.73,105.56,180,False,SUP-002,24
+SKU-BIS-0446,Sunfeast Dark Fantasy Biscuits Refill Pack of 4,Biscuits,Biscuits Specialties,Sunfeast Dark Fantasy,18.4,13.25,180,False,SUP-007,12
+SKU-CHI-0447,Bingo Chips Family Pack Pack of 4,Chips,Chips Specialties,Bingo,48.51,33.96,120,False,SUP-010,1
+SKU-SOF-0448,Fanta Soft Drinks Premium Pack of 4,Soft Drinks,Soft Drinks Specialties,Fanta,73.09,52.62,180,False,SUP-003,1
+SKU-WAT-0449,Vedica Water Refill 250ml,Water,Water Specialties,Vedica,29.52,19.19,365,False,SUP-003,10
+SKU-CHO-0450,Ferrero Rocher Chocolate Family Pack 500ml,Chocolate,Chocolate Specialties,Ferrero Rocher,80.53,54.76,180,False,SUP-010,10
+SKU-ICE-0451,Havmor Ice Cream Standard 200g,Ice Cream,Ice Cream Specialties,Havmor,62.43,43.7,85,True,SUP-014,10
+SKU-YOG-0452,Epigamia Yogurt Premium 1kg,Yogurt,Yogurt Specialties,Epigamia,51.48,38.61,7,True,SUP-001,10
+SKU-FRU-0453,Organic India Fruits Organic 500ml,Fruits,Fruits Specialties,Organic India,62.26,44.83,6,True,SUP-004,1
+SKU-VEG-0454,Daily Greens Vegetables Classic 500g,Vegetables,Vegetables Specialties,Daily Greens,42.31,31.31,4,True,SUP-004,1
+SKU-PER-0455,Nivea Personal Care Classic 250ml,Personal Care,Personal Care Specialties,Nivea,184.48,119.91,730,False,SUP-012,1
+SKU-HOU-0456,Vim Household Lite Pack of 4,Household,Household Specialties,Vim,77.28,54.1,730,False,SUP-009,24
+SKU-SNA-0457,Act II Snacks Standard 200g,Snacks,Snacks Specialties,Act II,70.21,50.55,120,False,SUP-014,10
+SKU-BEV-0458,Red Label Beverages Crunchy 500g,Beverages,Beverages Specialties,Red Label,91.93,64.35,180,False,SUP-003,24
+SKU-CLE-0459,Lizol Cleaning Premium 1L,Cleaning,Cleaning Specialties,Lizol,131.38,89.34,730,False,SUP-003,10
+SKU-BAB-0460,Huggies Baby Care Organic 500g,Baby Care,Baby Care Specialties,Huggies,401.17,300.88,365,False,SUP-010,24
+SKU-MIL-0461,Nandini Milk Crunchy 1L,Milk,Milk Specialties,Nandini,66.12,52.9,4,True,SUP-001,24
+SKU-BRE-0462,Modern Bread Refill Pack of 4,Bread,Bread Specialties,Modern,55.1,41.33,3,True,SUP-001,1
+SKU-EGG-0463,Hen Fruit Eggs Premium Pack of 2,Eggs,Eggs Specialties,Hen Fruit,74.61,58.2,20,True,SUP-001,6
+SKU-RIC-0464,Daawat Rice Lite 500ml,Rice,Rice Specialties,Daawat,196.03,156.82,365,False,SUP-002,12
+SKU-ATT-0465,Patanjali Atta Classic 200g,Atta,Atta Specialties,Patanjali,167.94,137.71,180,False,SUP-002,4
+SKU-BIS-0466,Monaco Biscuits Fresh Batch 250ml,Biscuits,Biscuits Specialties,Monaco,48.65,35.03,180,False,SUP-011,1
+SKU-CHI-0467,Kurkure Chips Crunchy Pack of 2,Chips,Chips Specialties,Kurkure,23.38,16.37,120,False,SUP-011,12
+SKU-SOF-0468,Coca-Cola Soft Drinks Fresh Batch 200g,Soft Drinks,Soft Drinks Specialties,Coca-Cola,94.21,67.83,180,False,SUP-003,4
+SKU-WAT-0469,Himalayan Water Refill 1L,Water,Water Specialties,Himalayan,23.2,15.08,365,False,SUP-003,10
+SKU-CHO-0470,Cadbury Dairy Milk Chocolate Standard 500g,Chocolate,Chocolate Specialties,Cadbury Dairy Milk,41.66,28.33,180,False,SUP-001,1
+SKU-ICE-0471,Vadilal Ice Cream Fresh Batch 500ml,Ice Cream,Ice Cream Specialties,Vadilal,155.0,108.5,76,True,SUP-013,10
+SKU-YOG-0472,Milky Mist Yogurt Refill 500g,Yogurt,Yogurt Specialties,Milky Mist,63.43,47.57,9,True,SUP-001,6
+SKU-FRU-0473,Fresh Farm Fruits Classic 500g,Fruits,Fruits Specialties,Fresh Farm,111.58,80.34,5,True,SUP-004,4
+SKU-VEG-0474,Pure Veg Vegetables Family Pack Pack of 2,Vegetables,Vegetables Specialties,Pure Veg,55.19,40.84,3,True,SUP-004,6
+SKU-PER-0475,Pears Personal Care Refill 250ml,Personal Care,Personal Care Specialties,Pears,76.79,49.91,730,False,SUP-015,10
+SKU-HOU-0476,Vim Household Crunchy 200g,Household,Household Specialties,Vim,158.25,110.77,730,False,SUP-002,1
+SKU-SNA-0477,Bikaji Snacks Standard 1kg,Snacks,Snacks Specialties,Bikaji,57.27,41.23,120,False,SUP-009,12
+SKU-BEV-0478,Nescafe Beverages Organic 1L,Beverages,Beverages Specialties,Nescafe,71.02,49.71,180,False,SUP-003,24
+SKU-CLE-0479,Lizol Cleaning Standard 1L,Cleaning,Cleaning Specialties,Lizol,234.67,159.58,730,False,SUP-009,1
+SKU-BAB-0480,Johnson's Baby Baby Care Premium Pack of 4,Baby Care,Baby Care Specialties,Johnson's Baby,361.25,270.94,365,False,SUP-001,10
+SKU-MIL-0481,Country Delight Milk Organic 1L,Milk,Milk Specialties,Country Delight,37.87,30.3,2,True,SUP-001,12
+SKU-BRE-0482,Britannia Bread Lite 200g,Bread,Bread Specialties,Britannia,26.54,19.91,3,True,SUP-001,4
+SKU-EGG-0483,Eggoz Eggs Crunchy 1L,Eggs,Eggs Specialties,Eggoz,76.81,59.91,16,True,SUP-001,4
+SKU-RIC-0484,India Gate Rice Fresh Batch Pack of 2,Rice,Rice Specialties,India Gate,120.41,96.33,365,False,SUP-002,10
+SKU-ATT-0485,Pillsbury Atta Classic 500g,Atta,Atta Specialties,Pillsbury,127.87,104.85,180,False,SUP-002,12
+SKU-BIS-0486,Parle-G Biscuits Organic 250ml,Biscuits,Biscuits Specialties,Parle-G,51.2,36.86,180,False,SUP-007,1
+SKU-CHI-0487,Doritos Chips Classic 500ml,Chips,Chips Specialties,Doritos,29.82,20.87,120,False,SUP-001,6
+SKU-SOF-0488,Pepsi Soft Drinks Classic 500ml,Soft Drinks,Soft Drinks Specialties,Pepsi,79.37,57.15,180,False,SUP-003,10
+SKU-WAT-0489,Bisleri Water Crunchy 250ml,Water,Water Specialties,Bisleri,25.99,16.89,365,False,SUP-003,4
+SKU-CHO-0490,Cadbury Dairy Milk Chocolate Refill 200g,Chocolate,Chocolate Specialties,Cadbury Dairy Milk,67.96,46.21,180,False,SUP-011,24
+SKU-ICE-0491,Kwality Wall's Ice Cream Family Pack 200g,Ice Cream,Ice Cream Specialties,Kwality Wall's,177.81,124.47,72,True,SUP-014,24
+SKU-YOG-0492,Mother Dairy Yogurt Premium 250ml,Yogurt,Yogurt Specialties,Mother Dairy,56.79,42.59,10,True,SUP-001,10
+SKU-FRU-0493,Driscoll's Fruits Standard 1kg,Fruits,Fruits Specialties,Driscoll's,139.63,100.53,4,True,SUP-004,1
+SKU-VEG-0494,Green Harvest Vegetables Fresh Batch Pack of 2,Vegetables,Vegetables Specialties,Green Harvest,62.05,45.92,5,True,SUP-004,10
+SKU-PER-0495,Pears Personal Care Premium 500g,Personal Care,Personal Care Specialties,Pears,206.57,134.27,730,False,SUP-002,12
+SKU-HOU-0496,Harpic Household Standard Pack of 2,Household,Household Specialties,Harpic,281.86,197.3,730,False,SUP-004,6
+SKU-SNA-0497,Balaji Snacks Family Pack Pack of 2,Snacks,Snacks Specialties,Balaji,70.55,50.8,120,False,SUP-006,10
+SKU-BEV-0498,Nescafe Beverages Lite 500g,Beverages,Beverages Specialties,Nescafe,238.43,166.9,180,False,SUP-003,12
+SKU-CLE-0499,Lizol Cleaning Organic 500g,Cleaning,Cleaning Specialties,Lizol,83.63,56.87,730,False,SUP-006,10
+SKU-BAB-0500,Pampers Baby Care Fresh Batch 1L,Baby Care,Baby Care Specialties,Pampers,631.26,473.44,365,False,SUP-008,6
+SKU-MIL-0501,Nestle Milk Classic 500g,Milk,Milk Specialties,Nestle,34.52,27.62,4,True,SUP-001,6
+SKU-BRE-0502,The Health Factory Bread Standard 250ml,Bread,Bread Specialties,The Health Factory,54.26,40.7,4,True,SUP-001,4
+SKU-EGG-0503,Eggoz Eggs Lite 1L,Eggs,Eggs Specialties,Eggoz,77.74,60.64,14,True,SUP-001,24
+SKU-RIC-0504,Fortune Rice Classic 1kg,Rice,Rice Specialties,Fortune,85.59,68.47,365,False,SUP-002,10
+SKU-ATT-0505,Patanjali Atta Fresh Batch 250ml,Atta,Atta Specialties,Patanjali,58.74,48.17,180,False,SUP-002,4
+SKU-BIS-0506,Parle-G Biscuits Standard 200g,Biscuits,Biscuits Specialties,Parle-G,52.37,37.71,180,False,SUP-003,4
+SKU-CHI-0507,Doritos Chips Family Pack 500g,Chips,Chips Specialties,Doritos,37.47,26.23,120,False,SUP-015,1
+SKU-SOF-0508,Coca-Cola Soft Drinks Premium 250ml,Soft Drinks,Soft Drinks Specialties,Coca-Cola,89.15,64.19,180,False,SUP-003,4
+SKU-WAT-0509,Kinley Water Family Pack 500g,Water,Water Specialties,Kinley,15.64,10.17,365,False,SUP-003,1
+SKU-CHO-0510,KitKat Chocolate Refill Pack of 2,Chocolate,Chocolate Specialties,KitKat,99.54,67.69,180,False,SUP-011,10
+SKU-ICE-0511,Amul Ice Cream Family Pack 250ml,Ice Cream,Ice Cream Specialties,Amul,203.95,142.76,68,True,SUP-005,10
+SKU-YOG-0512,Amul Yogurt Standard 250ml,Yogurt,Yogurt Specialties,Amul,63.84,47.88,14,True,SUP-001,10
+SKU-FRU-0513,Nature Basket Fruits Crunchy 200g,Fruits,Fruits Specialties,Nature Basket,52.28,37.64,7,True,SUP-004,4
+SKU-VEG-0514,Organic Mandi Vegetables Lite 250ml,Vegetables,Vegetables Specialties,Organic Mandi,57.85,42.81,3,True,SUP-004,10
+SKU-PER-0515,Pears Personal Care Family Pack Pack of 4,Personal Care,Personal Care Specialties,Pears,217.91,141.64,730,False,SUP-006,12
+SKU-HOU-0516,Harpic Household Family Pack Pack of 2,Household,Household Specialties,Harpic,144.65,101.25,730,False,SUP-006,12
+SKU-SNA-0517,Bikaji Snacks Standard 500ml,Snacks,Snacks Specialties,Bikaji,28.81,20.74,120,False,SUP-009,6
+SKU-BEV-0518,Tetley Beverages Lite 1kg,Beverages,Beverages Specialties,Tetley,65.53,45.87,180,False,SUP-003,6
+SKU-CLE-0519,Scotch-Brite Cleaning Standard 250ml,Cleaning,Cleaning Specialties,Scotch-Brite,180.29,122.6,730,False,SUP-006,4
+SKU-BAB-0520,Huggies Baby Care Lite 1L,Baby Care,Baby Care Specialties,Huggies,547.29,410.47,365,False,SUP-015,12
+SKU-MIL-0521,Amul Milk Family Pack 1kg,Milk,Milk Specialties,Amul,58.16,46.53,2,True,SUP-001,10
+SKU-BRE-0522,The Health Factory Bread Classic 1kg,Bread,Bread Specialties,The Health Factory,42.17,31.63,3,True,SUP-001,1
+SKU-EGG-0523,Hen Fruit Eggs Lite 200g,Eggs,Eggs Specialties,Hen Fruit,86.85,67.74,14,True,SUP-001,6
+SKU-RIC-0524,Royal Rice Lite 1kg,Rice,Rice Specialties,Royal,141.34,113.07,365,False,SUP-002,6
+SKU-ATT-0525,Aashirvaad Atta Standard 1kg,Atta,Atta Specialties,Aashirvaad,130.06,106.65,180,False,SUP-002,1
+SKU-BIS-0526,Monaco Biscuits Family Pack 500g,Biscuits,Biscuits Specialties,Monaco,31.81,22.9,180,False,SUP-010,1
+SKU-CHI-0527,Bingo Chips Classic 1L,Chips,Chips Specialties,Bingo,24.09,16.86,120,False,SUP-012,10
+SKU-SOF-0528,Fanta Soft Drinks Crunchy 1L,Soft Drinks,Soft Drinks Specialties,Fanta,45.45,32.72,180,False,SUP-003,4
+SKU-WAT-0529,Vedica Water Organic Pack of 2,Water,Water Specialties,Vedica,19.6,12.74,365,False,SUP-003,4
+SKU-CHO-0530,KitKat Chocolate Standard Pack of 2,Chocolate,Chocolate Specialties,KitKat,142.09,96.62,180,False,SUP-003,12
+SKU-ICE-0531,Havmor Ice Cream Lite 500g,Ice Cream,Ice Cream Specialties,Havmor,208.92,146.24,64,True,SUP-006,24
+SKU-YOG-0532,Epigamia Yogurt Lite 1L,Yogurt,Yogurt Specialties,Epigamia,83.94,62.95,9,True,SUP-001,24
+SKU-FRU-0533,Fresh Farm Fruits Family Pack Pack of 4,Fruits,Fruits Specialties,Fresh Farm,41.6,29.95,5,True,SUP-004,4
+SKU-VEG-0534,Fresh Farm Vegetables Family Pack 500ml,Vegetables,Vegetables Specialties,Fresh Farm,67.22,49.74,3,True,SUP-004,1
+SKU-PER-0535,Nivea Personal Care Crunchy Pack of 2,Personal Care,Personal Care Specialties,Nivea,341.04,221.68,730,False,SUP-008,10
+SKU-HOU-0536,Ariel Household Fresh Batch Pack of 2,Household,Household Specialties,Ariel,85.5,59.85,730,False,SUP-013,12
+SKU-SNA-0537,Bikaji Snacks Organic Pack of 4,Snacks,Snacks Specialties,Bikaji,29.79,21.45,120,False,SUP-005,1
+SKU-BEV-0538,Nescafe Beverages Classic 500g,Beverages,Beverages Specialties,Nescafe,60.21,42.15,180,False,SUP-003,10
+SKU-CLE-0539,Pril Cleaning Premium 500g,Cleaning,Cleaning Specialties,Pril,124.42,84.61,730,False,SUP-012,1
+SKU-BAB-0540,Sebamed Baby Care Organic Pack of 2,Baby Care,Baby Care Specialties,Sebamed,203.27,152.45,365,False,SUP-006,4
+SKU-MIL-0541,Nandini Milk Refill 500ml,Milk,Milk Specialties,Nandini,63.03,50.42,3,True,SUP-001,4
+SKU-BRE-0542,Britannia Bread Standard Pack of 2,Bread,Bread Specialties,Britannia,45.01,33.76,4,True,SUP-001,4
+SKU-EGG-0543,Eggoz Eggs Family Pack 200g,Eggs,Eggs Specialties,Eggoz,79.93,62.35,18,True,SUP-001,24
+SKU-RIC-0544,Royal Rice Crunchy 250ml,Rice,Rice Specialties,Royal,97.46,77.97,365,False,SUP-002,4
+SKU-ATT-0545,Pillsbury Atta Premium Pack of 4,Atta,Atta Specialties,Pillsbury,167.35,137.23,180,False,SUP-002,10
+SKU-BIS-0546,Sunfeast Dark Fantasy Biscuits Crunchy 500ml,Biscuits,Biscuits Specialties,Sunfeast Dark Fantasy,19.1,13.75,180,False,SUP-003,6
+SKU-CHI-0547,Doritos Chips Family Pack 1kg,Chips,Chips Specialties,Doritos,33.37,23.36,120,False,SUP-008,10
+SKU-SOF-0548,Thums Up Soft Drinks Lite 500ml,Soft Drinks,Soft Drinks Specialties,Thums Up,68.85,49.57,180,False,SUP-003,24
+SKU-WAT-0549,Kinley Water Premium 1L,Water,Water Specialties,Kinley,27.12,17.63,365,False,SUP-003,12
+SKU-CHO-0550,KitKat Chocolate Fresh Batch 200g,Chocolate,Chocolate Specialties,KitKat,140.9,95.81,180,False,SUP-009,24
+SKU-ICE-0551,Vadilal Ice Cream Lite Pack of 4,Ice Cream,Ice Cream Specialties,Vadilal,97.3,68.11,72,True,SUP-015,24
+SKU-YOG-0552,Epigamia Yogurt Fresh Batch 1kg,Yogurt,Yogurt Specialties,Epigamia,32.22,24.16,14,True,SUP-001,4
+SKU-FRU-0553,Organic India Fruits Lite 250ml,Fruits,Fruits Specialties,Organic India,57.67,41.52,7,True,SUP-004,1
+SKU-VEG-0554,Organic Mandi Vegetables Lite 1kg,Vegetables,Vegetables Specialties,Organic Mandi,70.05,51.84,5,True,SUP-004,6
+SKU-PER-0555,Pears Personal Care Premium 500g,Personal Care,Personal Care Specialties,Pears,172.55,112.16,730,False,SUP-009,6
+SKU-HOU-0556,Ariel Household Fresh Batch Pack of 4,Household,Household Specialties,Ariel,371.01,259.71,730,False,SUP-013,24
+SKU-SNA-0557,Cornitos Snacks Fresh Batch Pack of 2,Snacks,Snacks Specialties,Cornitos,32.31,23.26,120,False,SUP-003,12
+SKU-BEV-0558,Tetley Beverages Premium 500g,Beverages,Beverages Specialties,Tetley,160.35,112.24,180,False,SUP-003,6
+SKU-CLE-0559,Scotch-Brite Cleaning Family Pack Pack of 2,Cleaning,Cleaning Specialties,Scotch-Brite,107.07,72.81,730,False,SUP-010,12
+SKU-BAB-0560,Sebamed Baby Care Standard 1kg,Baby Care,Baby Care Specialties,Sebamed,265.97,199.48,365,False,SUP-010,12
+SKU-MIL-0561,Nestle Milk Standard Pack of 2,Milk,Milk Specialties,Nestle,74.48,59.58,3,True,SUP-001,24
+SKU-BRE-0562,Modern Bread Standard Pack of 4,Bread,Bread Specialties,Modern,57.23,42.92,4,True,SUP-001,1
+SKU-EGG-0563,Abhi Eggs Eggs Classic 500ml,Eggs,Eggs Specialties,Abhi Eggs,69.62,54.3,21,True,SUP-001,24
+SKU-RIC-0564,India Gate Rice Lite 1kg,Rice,Rice Specialties,India Gate,134.09,107.27,365,False,SUP-002,6
+SKU-ATT-0565,Pillsbury Atta Refill 500g,Atta,Atta Specialties,Pillsbury,72.25,59.25,180,False,SUP-002,10
+SKU-BIS-0566,Sunfeast Dark Fantasy Biscuits Fresh Batch 1L,Biscuits,Biscuits Specialties,Sunfeast Dark Fantasy,51.95,37.4,180,False,SUP-002,6
+SKU-CHI-0567,Pringles Chips Refill 1kg,Chips,Chips Specialties,Pringles,43.42,30.39,120,False,SUP-003,4
+SKU-SOF-0568,Pepsi Soft Drinks Standard 250ml,Soft Drinks,Soft Drinks Specialties,Pepsi,36.98,26.63,180,False,SUP-003,6
+SKU-WAT-0569,Aquafina Water Classic 1L,Water,Water Specialties,Aquafina,27.35,17.78,365,False,SUP-003,24
+SKU-CHO-0570,Cadbury Dairy Milk Chocolate Standard 250ml,Chocolate,Chocolate Specialties,Cadbury Dairy Milk,84.7,57.6,180,False,SUP-003,10
+SKU-ICE-0571,Baskin Robbins Ice Cream Fresh Batch 1L,Ice Cream,Ice Cream Specialties,Baskin Robbins,105.24,73.67,86,True,SUP-015,6
+SKU-YOG-0572,Epigamia Yogurt Classic 200g,Yogurt,Yogurt Specialties,Epigamia,48.19,36.14,9,True,SUP-001,12
+SKU-FRU-0573,Organic India Fruits Lite 250ml,Fruits,Fruits Specialties,Organic India,134.88,97.11,6,True,SUP-004,24
+SKU-VEG-0574,Organic Mandi Vegetables Fresh Batch 200g,Vegetables,Vegetables Specialties,Organic Mandi,71.88,53.19,3,True,SUP-004,10
+SKU-PER-0575,Dove Personal Care Organic 200g,Personal Care,Personal Care Specialties,Dove,124.89,81.18,730,False,SUP-012,24
+SKU-HOU-0576,Good Knight Household Classic Pack of 2,Household,Household Specialties,Good Knight,363.42,254.39,730,False,SUP-008,6
+SKU-SNA-0577,Bikaji Snacks Crunchy 500ml,Snacks,Snacks Specialties,Bikaji,69.02,49.69,120,False,SUP-010,1
+SKU-BEV-0578,Tata Tea Beverages Fresh Batch 1L,Beverages,Beverages Specialties,Tata Tea,160.1,112.07,180,False,SUP-003,6
+SKU-CLE-0579,Lizol Cleaning Crunchy 500g,Cleaning,Cleaning Specialties,Lizol,124.03,84.34,730,False,SUP-011,6
+SKU-BAB-0580,Johnson's Baby Baby Care Classic 500ml,Baby Care,Baby Care Specialties,Johnson's Baby,219.83,164.87,365,False,SUP-015,1
+SKU-MIL-0581,Country Delight Milk Refill 1L,Milk,Milk Specialties,Country Delight,64.04,51.23,4,True,SUP-001,1
+SKU-BRE-0582,Bonn Bread Classic 500ml,Bread,Bread Specialties,Bonn,56.74,42.55,4,True,SUP-001,10
+SKU-EGG-0583,Eggoz Eggs Lite 1L,Eggs,Eggs Specialties,Eggoz,100.86,78.67,17,True,SUP-001,24
+SKU-RIC-0584,Royal Rice Crunchy 1L,Rice,Rice Specialties,Royal,171.32,137.06,365,False,SUP-002,24
+SKU-ATT-0585,Patanjali Atta Organic 500ml,Atta,Atta Specialties,Patanjali,59.15,48.5,180,False,SUP-002,24
+SKU-BIS-0586,Oreo Biscuits Fresh Batch 1kg,Biscuits,Biscuits Specialties,Oreo,57.61,41.48,180,False,SUP-011,1
+SKU-CHI-0587,Kurkure Chips Family Pack 250ml,Chips,Chips Specialties,Kurkure,42.33,29.63,120,False,SUP-007,6
+SKU-SOF-0588,Thums Up Soft Drinks Classic 500ml,Soft Drinks,Soft Drinks Specialties,Thums Up,62.83,45.24,180,False,SUP-003,10
+SKU-WAT-0589,Kinley Water Premium Pack of 4,Water,Water Specialties,Kinley,28.34,18.42,365,False,SUP-003,24
+SKU-CHO-0590,Amul Dark Chocolate Fresh Batch 500ml,Chocolate,Chocolate Specialties,Amul Dark,89.57,60.91,180,False,SUP-003,4
+SKU-ICE-0591,Havmor Ice Cream Refill Pack of 4,Ice Cream,Ice Cream Specialties,Havmor,70.06,49.04,87,True,SUP-012,4
+SKU-YOG-0592,Epigamia Yogurt Crunchy 1L,Yogurt,Yogurt Specialties,Epigamia,62.86,47.14,9,True,SUP-001,6
+SKU-FRU-0593,Fresh Farm Fruits Standard Pack of 4,Fruits,Fruits Specialties,Fresh Farm,78.29,56.37,5,True,SUP-004,12
+SKU-VEG-0594,Green Harvest Vegetables Crunchy 500g,Vegetables,Vegetables Specialties,Green Harvest,27.76,20.54,6,True,SUP-004,24
+SKU-PER-0595,Nivea Personal Care Refill Pack of 2,Personal Care,Personal Care Specialties,Nivea,339.95,220.97,730,False,SUP-001,1
+SKU-HOU-0596,Harpic Household Lite 1L,Household,Household Specialties,Harpic,382.52,267.76,730,False,SUP-013,12
+SKU-SNA-0597,Bikaji Snacks Standard 200g,Snacks,Snacks Specialties,Bikaji,65.73,47.33,120,False,SUP-004,24
+SKU-BEV-0598,Nescafe Beverages Classic 1kg,Beverages,Beverages Specialties,Nescafe,66.06,46.24,180,False,SUP-003,4
+SKU-CLE-0599,Lizol Cleaning Standard 500ml,Cleaning,Cleaning Specialties,Lizol,267.89,182.17,730,False,SUP-012,12
+SKU-BAB-0600,MamyPoko Baby Care Fresh Batch 1L,Baby Care,Baby Care Specialties,MamyPoko,349.84,262.38,365,False,SUP-006,10
+SKU-MIL-0601,Mother Dairy Milk Lite 1kg,Milk,Milk Specialties,Mother Dairy,77.4,61.92,3,True,SUP-001,1
+SKU-BRE-0602,Modern Bread Lite 1kg,Bread,Bread Specialties,Modern,32.39,24.29,3,True,SUP-001,12
+SKU-EGG-0603,Suguna Eggs Organic 500g,Eggs,Eggs Specialties,Suguna,75.66,59.01,14,True,SUP-001,10
+SKU-RIC-0604,Fortune Rice Fresh Batch 200g,Rice,Rice Specialties,Fortune,186.91,149.53,365,False,SUP-002,24
+SKU-ATT-0605,Aashirvaad Atta Standard 200g,Atta,Atta Specialties,Aashirvaad,145.01,118.91,180,False,SUP-002,10
+SKU-BIS-0606,Sunfeast Dark Fantasy Biscuits Premium 500ml,Biscuits,Biscuits Specialties,Sunfeast Dark Fantasy,36.35,26.17,180,False,SUP-004,24
+SKU-CHI-0607,Lay's Chips Classic Pack of 2,Chips,Chips Specialties,Lay's,39.85,27.89,120,False,SUP-010,12
+SKU-SOF-0608,Fanta Soft Drinks Organic Pack of 2,Soft Drinks,Soft Drinks Specialties,Fanta,84.84,61.08,180,False,SUP-003,12
+SKU-WAT-0609,Vedica Water Premium 500ml,Water,Water Specialties,Vedica,16.71,10.86,365,False,SUP-003,10
+SKU-CHO-0610,KitKat Chocolate Lite 500ml,Chocolate,Chocolate Specialties,KitKat,139.78,95.05,180,False,SUP-006,24
+SKU-ICE-0611,Vadilal Ice Cream Classic 1kg,Ice Cream,Ice Cream Specialties,Vadilal,51.9,36.33,75,True,SUP-015,4
+SKU-YOG-0612,Milky Mist Yogurt Family Pack 250ml,Yogurt,Yogurt Specialties,Milky Mist,25.16,18.87,8,True,SUP-001,1
+SKU-FRU-0613,Nature Basket Fruits Crunchy 1kg,Fruits,Fruits Specialties,Nature Basket,172.92,124.5,4,True,SUP-004,24
+SKU-VEG-0614,Fresh Farm Vegetables Classic 250ml,Vegetables,Vegetables Specialties,Fresh Farm,47.41,35.08,5,True,SUP-004,6
+SKU-PER-0615,Nivea Personal Care Standard 500g,Personal Care,Personal Care Specialties,Nivea,295.82,192.28,730,False,SUP-014,6
+SKU-HOU-0616,Ariel Household Family Pack Pack of 2,Household,Household Specialties,Ariel,308.49,215.94,730,False,SUP-014,1
+SKU-SNA-0617,Haldiram's Snacks Organic 1kg,Snacks,Snacks Specialties,Haldiram's,46.36,33.38,120,False,SUP-010,6
+SKU-BEV-0618,Tata Tea Beverages Family Pack 1L,Beverages,Beverages Specialties,Tata Tea,82.49,57.74,180,False,SUP-003,10
+SKU-CLE-0619,Dettol Disinfectant Cleaning Classic Pack of 2,Cleaning,Cleaning Specialties,Dettol Disinfectant,207.13,140.85,730,False,SUP-013,10
+SKU-BAB-0620,Huggies Baby Care Premium 1kg,Baby Care,Baby Care Specialties,Huggies,488.97,366.73,365,False,SUP-014,4
+SKU-MIL-0621,Amul Milk Refill Pack of 4,Milk,Milk Specialties,Amul,70.11,56.09,4,True,SUP-001,10
+SKU-BRE-0622,Modern Bread Refill 1L,Bread,Bread Specialties,Modern,46.4,34.8,5,True,SUP-001,24
+SKU-EGG-0623,Hen Fruit Eggs Crunchy Pack of 4,Eggs,Eggs Specialties,Hen Fruit,57.91,45.17,20,True,SUP-001,10
+SKU-RIC-0624,India Gate Rice Premium 500ml,Rice,Rice Specialties,India Gate,197.9,158.32,365,False,SUP-002,24
+SKU-ATT-0625,Patanjali Atta Lite 1L,Atta,Atta Specialties,Patanjali,120.27,98.62,180,False,SUP-002,10
+SKU-BIS-0626,Britannia Good Day Biscuits Crunchy 1L,Biscuits,Biscuits Specialties,Britannia Good Day,44.87,32.31,180,False,SUP-003,12
+SKU-CHI-0627,Pringles Chips Standard 200g,Chips,Chips Specialties,Pringles,39.3,27.51,120,False,SUP-009,10
+SKU-SOF-0628,Sprite Soft Drinks Organic 500g,Soft Drinks,Soft Drinks Specialties,Sprite,80.09,57.66,180,False,SUP-003,4
+SKU-WAT-0629,Bisleri Water Classic 200g,Water,Water Specialties,Bisleri,22.6,14.69,365,False,SUP-003,10
+SKU-CHO-0630,KitKat Chocolate Premium Pack of 4,Chocolate,Chocolate Specialties,KitKat,93.3,63.44,180,False,SUP-002,10
+SKU-ICE-0631,Vadilal Ice Cream Family Pack 500g,Ice Cream,Ice Cream Specialties,Vadilal,216.62,151.63,83,True,SUP-011,1
+SKU-YOG-0632,Epigamia Yogurt Refill Pack of 2,Yogurt,Yogurt Specialties,Epigamia,27.15,20.36,7,True,SUP-001,1
+SKU-FRU-0633,Nature Basket Fruits Classic 250ml,Fruits,Fruits Specialties,Nature Basket,131.64,94.78,7,True,SUP-004,6
+SKU-VEG-0634,Daily Greens Vegetables Standard 250ml,Vegetables,Vegetables Specialties,Daily Greens,70.66,52.29,5,True,SUP-004,12
+SKU-PER-0635,Himalaya Personal Care Crunchy 1L,Personal Care,Personal Care Specialties,Himalaya,267.61,173.95,730,False,SUP-002,24
+SKU-HOU-0636,Surf Excel Household Standard 1L,Household,Household Specialties,Surf Excel,174.3,122.01,730,False,SUP-009,12
+SKU-SNA-0637,Balaji Snacks Premium 200g,Snacks,Snacks Specialties,Balaji,83.3,59.98,120,False,SUP-003,24
+SKU-BEV-0638,Bru Beverages Premium 500ml,Beverages,Beverages Specialties,Bru,170.22,119.15,180,False,SUP-003,1
+SKU-CLE-0639,Dettol Disinfectant Cleaning Lite Pack of 4,Cleaning,Cleaning Specialties,Dettol Disinfectant,238.77,162.36,730,False,SUP-012,6
+SKU-BAB-0640,Pampers Baby Care Refill 200g,Baby Care,Baby Care Specialties,Pampers,611.11,458.33,365,False,SUP-013,10
+SKU-MIL-0641,Nestle Milk Fresh Batch 1kg,Milk,Milk Specialties,Nestle,78.19,62.55,2,True,SUP-001,12
+SKU-BRE-0642,Britannia Bread Fresh Batch Pack of 2,Bread,Bread Specialties,Britannia,54.36,40.77,4,True,SUP-001,12
+SKU-EGG-0643,Hen Fruit Eggs Organic 1kg,Eggs,Eggs Specialties,Hen Fruit,57.25,44.66,19,True,SUP-001,12
+SKU-RIC-0644,Kohinoor Rice Refill 250ml,Rice,Rice Specialties,Kohinoor,129.25,103.4,365,False,SUP-002,6
+SKU-ATT-0645,Nature Fresh Atta Organic 1kg,Atta,Atta Specialties,Nature Fresh,104.85,85.98,180,False,SUP-002,24
+SKU-BIS-0646,Monaco Biscuits Family Pack 250ml,Biscuits,Biscuits Specialties,Monaco,24.04,17.31,180,False,SUP-011,6
+SKU-CHI-0647,Kurkure Chips Organic 1L,Chips,Chips Specialties,Kurkure,41.31,28.92,120,False,SUP-009,10
+SKU-SOF-0648,Limca Soft Drinks Refill 500ml,Soft Drinks,Soft Drinks Specialties,Limca,87.65,63.11,180,False,SUP-003,1
+SKU-WAT-0649,Vedica Water Premium 200g,Water,Water Specialties,Vedica,20.71,13.46,365,False,SUP-003,24
+SKU-CHO-0650,Cadbury Dairy Milk Chocolate Lite 500ml,Chocolate,Chocolate Specialties,Cadbury Dairy Milk,130.02,88.41,180,False,SUP-005,24
+SKU-ICE-0651,Havmor Ice Cream Organic 200g,Ice Cream,Ice Cream Specialties,Havmor,165.85,116.09,69,True,SUP-004,12
+SKU-YOG-0652,Epigamia Yogurt Family Pack Pack of 4,Yogurt,Yogurt Specialties,Epigamia,31.15,23.36,10,True,SUP-001,24
+SKU-FRU-0653,Nature Basket Fruits Refill 250ml,Fruits,Fruits Specialties,Nature Basket,111.53,80.3,6,True,SUP-004,24
+SKU-VEG-0654,Fresh Farm Vegetables Refill Pack of 2,Vegetables,Vegetables Specialties,Fresh Farm,44.99,33.29,5,True,SUP-004,12
+SKU-PER-0655,Dettol Personal Care Standard 500ml,Personal Care,Personal Care Specialties,Dettol,118.9,77.29,730,False,SUP-014,4
+SKU-HOU-0656,Good Knight Household Family Pack 250ml,Household,Household Specialties,Good Knight,321.65,225.15,730,False,SUP-005,10
+SKU-SNA-0657,Bikaji Snacks Premium 1kg,Snacks,Snacks Specialties,Bikaji,87.56,63.04,120,False,SUP-007,1
+SKU-BEV-0658,Bru Beverages Classic 500ml,Beverages,Beverages Specialties,Bru,71.66,50.16,180,False,SUP-003,1
+SKU-CLE-0659,Comfort Cleaning Crunchy 1kg,Cleaning,Cleaning Specialties,Comfort,54.39,36.99,730,False,SUP-010,1
+SKU-BAB-0660,MamyPoko Baby Care Classic Pack of 4,Baby Care,Baby Care Specialties,MamyPoko,538.65,403.99,365,False,SUP-002,24
+SKU-MIL-0661,Mother Dairy Milk Fresh Batch 250ml,Milk,Milk Specialties,Mother Dairy,77.85,62.28,4,True,SUP-001,1
+SKU-BRE-0662,The Health Factory Bread Organic Pack of 2,Bread,Bread Specialties,The Health Factory,44.01,33.01,4,True,SUP-001,1
+SKU-EGG-0663,Abhi Eggs Eggs Lite 250ml,Eggs,Eggs Specialties,Abhi Eggs,96.43,75.22,19,True,SUP-001,6
+SKU-RIC-0664,Fortune Rice Lite Pack of 4,Rice,Rice Specialties,Fortune,259.39,207.51,365,False,SUP-002,1
+SKU-ATT-0665,Pillsbury Atta Crunchy 250ml,Atta,Atta Specialties,Pillsbury,176.15,144.44,180,False,SUP-002,1
+SKU-BIS-0666,Oreo Biscuits Refill 500g,Biscuits,Biscuits Specialties,Oreo,32.36,23.3,180,False,SUP-001,12
+SKU-CHI-0667,Bingo Chips Fresh Batch Pack of 4,Chips,Chips Specialties,Bingo,34.6,24.22,120,False,SUP-015,24
+SKU-SOF-0668,Pepsi Soft Drinks Family Pack 500g,Soft Drinks,Soft Drinks Specialties,Pepsi,91.89,66.16,180,False,SUP-003,12
+SKU-WAT-0669,Vedica Water Standard 500g,Water,Water Specialties,Vedica,18.16,11.8,365,False,SUP-003,24
+SKU-CHO-0670,Amul Dark Chocolate Premium 250ml,Chocolate,Chocolate Specialties,Amul Dark,104.53,71.08,180,False,SUP-011,1
+SKU-ICE-0671,Amul Ice Cream Standard Pack of 4,Ice Cream,Ice Cream Specialties,Amul,170.45,119.31,61,True,SUP-002,1
+SKU-YOG-0672,Epigamia Yogurt Organic 500ml,Yogurt,Yogurt Specialties,Epigamia,58.49,43.87,10,True,SUP-001,6
+SKU-FRU-0673,Driscoll's Fruits Refill Pack of 4,Fruits,Fruits Specialties,Driscoll's,128.23,92.33,7,True,SUP-004,6
+SKU-VEG-0674,Fresh Farm Vegetables Refill 500g,Vegetables,Vegetables Specialties,Fresh Farm,52.09,38.55,3,True,SUP-004,24
+SKU-PER-0675,Himalaya Personal Care Standard 500g,Personal Care,Personal Care Specialties,Himalaya,163.73,106.42,730,False,SUP-005,24
+SKU-HOU-0676,Ariel Household Premium 500ml,Household,Household Specialties,Ariel,317.85,222.5,730,False,SUP-007,10
+SKU-SNA-0677,Haldiram's Snacks Crunchy 1kg,Snacks,Snacks Specialties,Haldiram's,59.68,42.97,120,False,SUP-012,10
+SKU-BEV-0678,Tetley Beverages Classic 1kg,Beverages,Beverages Specialties,Tetley,106.1,74.27,180,False,SUP-003,1
+SKU-CLE-0679,Scotch-Brite Cleaning Fresh Batch 1kg,Cleaning,Cleaning Specialties,Scotch-Brite,73.96,50.29,730,False,SUP-010,12
+SKU-BAB-0680,Sebamed Baby Care Fresh Batch 500g,Baby Care,Baby Care Specialties,Sebamed,281.49,211.12,365,False,SUP-004,10
+SKU-MIL-0681,Country Delight Milk Organic 1kg,Milk,Milk Specialties,Country Delight,39.2,31.36,4,True,SUP-001,6
+SKU-BRE-0682,Modern Bread Premium 1kg,Bread,Bread Specialties,Modern,48.48,36.36,5,True,SUP-001,1
+SKU-EGG-0683,Suguna Eggs Crunchy 500g,Eggs,Eggs Specialties,Suguna,70.35,54.87,15,True,SUP-001,6
+SKU-RIC-0684,India Gate Rice Lite Pack of 4,Rice,Rice Specialties,India Gate,251.28,201.02,365,False,SUP-002,4
+SKU-ATT-0685,Fortune Chakki Atta Premium 500ml,Atta,Atta Specialties,Fortune Chakki,134.83,110.56,180,False,SUP-002,6
+SKU-BIS-0686,Sunfeast Dark Fantasy Biscuits Crunchy 1L,Biscuits,Biscuits Specialties,Sunfeast Dark Fantasy,42.74,30.77,180,False,SUP-012,12
+SKU-CHI-0687,Kurkure Chips Family Pack 1L,Chips,Chips Specialties,Kurkure,48.76,34.13,120,False,SUP-001,6
+SKU-SOF-0688,Pepsi Soft Drinks Lite Pack of 2,Soft Drinks,Soft Drinks Specialties,Pepsi,51.6,37.15,180,False,SUP-003,4
+SKU-WAT-0689,Bisleri Water Crunchy Pack of 4,Water,Water Specialties,Bisleri,21.68,14.09,365,False,SUP-003,10
+SKU-CHO-0690,Nestle Munch Chocolate Premium 1kg,Chocolate,Chocolate Specialties,Nestle Munch,117.47,79.88,180,False,SUP-014,6
+SKU-ICE-0691,Amul Ice Cream Fresh Batch 250ml,Ice Cream,Ice Cream Specialties,Amul,91.07,63.75,88,True,SUP-011,1
+SKU-YOG-0692,Epigamia Yogurt Standard 200g,Yogurt,Yogurt Specialties,Epigamia,73.76,55.32,13,True,SUP-001,12
+SKU-FRU-0693,Organic India Fruits Standard 500ml,Fruits,Fruits Specialties,Organic India,116.09,83.58,7,True,SUP-004,24
+SKU-VEG-0694,Green Harvest Vegetables Family Pack Pack of 2,Vegetables,Vegetables Specialties,Green Harvest,33.4,24.72,5,True,SUP-004,4
+SKU-PER-0695,Nivea Personal Care Fresh Batch 500g,Personal Care,Personal Care Specialties,Nivea,175.07,113.8,730,False,SUP-011,4
+SKU-HOU-0696,Harpic Household Organic 1kg,Household,Household Specialties,Harpic,206.18,144.33,730,False,SUP-010,12
+SKU-SNA-0697,Bikaji Snacks Crunchy 1L,Snacks,Snacks Specialties,Bikaji,27.63,19.89,120,False,SUP-004,1
+SKU-BEV-0698,Nescafe Beverages Family Pack 250ml,Beverages,Beverages Specialties,Nescafe,53.78,37.65,180,False,SUP-003,12
+SKU-CLE-0699,Comfort Cleaning Refill Pack of 4,Cleaning,Cleaning Specialties,Comfort,260.71,177.28,730,False,SUP-001,24
+SKU-BAB-0700,Johnson's Baby Baby Care Premium 500ml,Baby Care,Baby Care Specialties,Johnson's Baby,562.48,421.86,365,False,SUP-010,12
+SKU-MIL-0701,Country Delight Milk Organic Pack of 2,Milk,Milk Specialties,Country Delight,62.68,50.14,3,True,SUP-001,12
+SKU-BRE-0702,Britannia Bread Fresh Batch 500ml,Bread,Bread Specialties,Britannia,38.17,28.63,3,True,SUP-001,12
+SKU-EGG-0703,Farm Fresh Eggs Family Pack 1L,Eggs,Eggs Specialties,Farm Fresh,84.08,65.58,21,True,SUP-001,12
+SKU-RIC-0704,India Gate Rice Fresh Batch 1kg,Rice,Rice Specialties,India Gate,159.18,127.34,365,False,SUP-002,1
+SKU-ATT-0705,Patanjali Atta Classic 250ml,Atta,Atta Specialties,Patanjali,66.78,54.76,180,False,SUP-002,6
+SKU-BIS-0706,Monaco Biscuits Premium 250ml,Biscuits,Biscuits Specialties,Monaco,33.66,24.24,180,False,SUP-012,1
+SKU-CHI-0707,Doritos Chips Crunchy Pack of 4,Chips,Chips Specialties,Doritos,26.32,18.42,120,False,SUP-011,10
+SKU-SOF-0708,Coca-Cola Soft Drinks Lite 200g,Soft Drinks,Soft Drinks Specialties,Coca-Cola,42.67,30.72,180,False,SUP-003,4
+SKU-WAT-0709,Vedica Water Standard 1kg,Water,Water Specialties,Vedica,15.84,10.3,365,False,SUP-003,4
+SKU-CHO-0710,Nestle Munch Chocolate Refill 200g,Chocolate,Chocolate Specialties,Nestle Munch,145.42,98.89,180,False,SUP-002,4
+SKU-ICE-0711,Vadilal Ice Cream Crunchy Pack of 4,Ice Cream,Ice Cream Specialties,Vadilal,74.85,52.39,86,True,SUP-007,12
+SKU-YOG-0712,Amul Yogurt Organic 500ml,Yogurt,Yogurt Specialties,Amul,35.06,26.3,12,True,SUP-001,10
+SKU-FRU-0713,Nature Basket Fruits Premium 250ml,Fruits,Fruits Specialties,Nature Basket,92.95,66.92,5,True,SUP-004,1
+SKU-VEG-0714,Fresh Farm Vegetables Lite Pack of 2,Vegetables,Vegetables Specialties,Fresh Farm,69.59,51.5,3,True,SUP-004,4
+SKU-PER-0715,Nivea Personal Care Standard 500g,Personal Care,Personal Care Specialties,Nivea,87.03,56.57,730,False,SUP-015,12
+SKU-HOU-0716,Harpic Household Standard Pack of 2,Household,Household Specialties,Harpic,232.72,162.9,730,False,SUP-014,1
+SKU-SNA-0717,Cornitos Snacks Refill 250ml,Snacks,Snacks Specialties,Cornitos,86.0,61.92,120,False,SUP-013,10
+SKU-BEV-0718,Nescafe Beverages Premium Pack of 2,Beverages,Beverages Specialties,Nescafe,72.45,50.71,180,False,SUP-003,4
+SKU-CLE-0719,Lizol Cleaning Classic Pack of 2,Cleaning,Cleaning Specialties,Lizol,105.58,71.79,730,False,SUP-012,24
+SKU-BAB-0720,Pampers Baby Care Fresh Batch 500g,Baby Care,Baby Care Specialties,Pampers,395.47,296.6,365,False,SUP-011,4
+SKU-MIL-0721,Mother Dairy Milk Refill 1L,Milk,Milk Specialties,Mother Dairy,35.33,28.26,3,True,SUP-001,24
+SKU-BRE-0722,The Health Factory Bread Classic 500ml,Bread,Bread Specialties,The Health Factory,54.92,41.19,4,True,SUP-001,12
+SKU-EGG-0723,Abhi Eggs Eggs Classic Pack of 2,Eggs,Eggs Specialties,Abhi Eggs,102.85,80.22,20,True,SUP-001,12
+SKU-RIC-0724,Royal Rice Crunchy 1kg,Rice,Rice Specialties,Royal,146.64,117.31,365,False,SUP-002,6
+SKU-ATT-0725,Pillsbury Atta Family Pack Pack of 2,Atta,Atta Specialties,Pillsbury,151.69,124.39,180,False,SUP-002,24
+SKU-BIS-0726,Britannia Good Day Biscuits Crunchy 1kg,Biscuits,Biscuits Specialties,Britannia Good Day,19.51,14.05,180,False,SUP-013,6
+SKU-CHI-0727,Pringles Chips Standard 1kg,Chips,Chips Specialties,Pringles,31.67,22.17,120,False,SUP-013,1
+SKU-SOF-0728,Pepsi Soft Drinks Crunchy Pack of 2,Soft Drinks,Soft Drinks Specialties,Pepsi,40.29,29.01,180,False,SUP-003,4
+SKU-WAT-0729,Bisleri Water Premium 200g,Water,Water Specialties,Bisleri,25.87,16.82,365,False,SUP-003,12
+SKU-CHO-0730,Nestle Munch Chocolate Classic 200g,Chocolate,Chocolate Specialties,Nestle Munch,153.49,104.37,180,False,SUP-011,10
+SKU-ICE-0731,Vadilal Ice Cream Standard 250ml,Ice Cream,Ice Cream Specialties,Vadilal,193.85,135.69,89,True,SUP-013,12
+SKU-YOG-0732,Mother Dairy Yogurt Lite 200g,Yogurt,Yogurt Specialties,Mother Dairy,72.04,54.03,10,True,SUP-001,12
+SKU-FRU-0733,Organic India Fruits Standard 1L,Fruits,Fruits Specialties,Organic India,73.5,52.92,4,True,SUP-004,4
+SKU-VEG-0734,Fresh Farm Vegetables Classic Pack of 2,Vegetables,Vegetables Specialties,Fresh Farm,41.19,30.48,6,True,SUP-004,10
+SKU-PER-0735,Himalaya Personal Care Lite 200g,Personal Care,Personal Care Specialties,Himalaya,273.71,177.91,730,False,SUP-015,1
+SKU-HOU-0736,Harpic Household Classic 1L,Household,Household Specialties,Harpic,171.62,120.13,730,False,SUP-004,12
+SKU-SNA-0737,Bikaji Snacks Crunchy Pack of 2,Snacks,Snacks Specialties,Bikaji,62.37,44.91,120,False,SUP-003,10
+SKU-BEV-0738,Tetley Beverages Premium 500g,Beverages,Beverages Specialties,Tetley,148.15,103.7,180,False,SUP-003,1
+SKU-CLE-0739,Scotch-Brite Cleaning Classic 500ml,Cleaning,Cleaning Specialties,Scotch-Brite,208.14,141.54,730,False,SUP-010,10
+SKU-BAB-0740,Huggies Baby Care Family Pack Pack of 4,Baby Care,Baby Care Specialties,Huggies,481.25,360.94,365,False,SUP-008,1
+SKU-MIL-0741,Mother Dairy Milk Premium Pack of 2,Milk,Milk Specialties,Mother Dairy,61.68,49.34,2,True,SUP-001,24
+SKU-BRE-0742,Modern Bread Family Pack Pack of 2,Bread,Bread Specialties,Modern,58.44,43.83,5,True,SUP-001,12
+SKU-EGG-0743,Eggoz Eggs Classic 250ml,Eggs,Eggs Specialties,Eggoz,70.11,54.69,20,True,SUP-001,24
+SKU-RIC-0744,Fortune Rice Premium 1kg,Rice,Rice Specialties,Fortune,165.78,132.62,365,False,SUP-002,4
+SKU-ATT-0745,Patanjali Atta Classic 1kg,Atta,Atta Specialties,Patanjali,182.33,149.51,180,False,SUP-002,10
+SKU-BIS-0746,Britannia Good Day Biscuits Lite 250ml,Biscuits,Biscuits Specialties,Britannia Good Day,54.27,39.07,180,False,SUP-004,4
+SKU-CHI-0747,Kurkure Chips Family Pack 1kg,Chips,Chips Specialties,Kurkure,43.37,30.36,120,False,SUP-015,1
+SKU-SOF-0748,Fanta Soft Drinks Crunchy 200g,Soft Drinks,Soft Drinks Specialties,Fanta,80.85,58.21,180,False,SUP-003,10
+SKU-WAT-0749,Bisleri Water Family Pack Pack of 4,Water,Water Specialties,Bisleri,28.47,18.51,365,False,SUP-003,10
+SKU-CHO-0750,KitKat Chocolate Fresh Batch 500ml,Chocolate,Chocolate Specialties,KitKat,87.75,59.67,180,False,SUP-001,12

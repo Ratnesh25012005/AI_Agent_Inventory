@@ -1,0 +1,4 @@
+store_id,store_name,city,capacity,operating_hours
+STORE-001,Indiranagar Hub,Bengaluru,25000,24/7
+STORE-002,Koramangala Dark Store,Bengaluru,20000,06:00-23:00
+STORE-003,HSR Layout Hub,Bengaluru,18000,06:00-23:00

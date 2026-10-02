@@ -1,0 +1,16 @@
+supplier_id,supplier_name,lead_time_days,minimum_order_quantity,reliability_score
+SUP-001,Fresh Dairy Logistics Ltd,0.25,10,0.946
+SUP-002,Grain & Mills Direct,1.7,50,0.946
+SUP-003,Apex Beverage Distributors,3.0,25,0.927
+SUP-004,Golden Harvest Organics,0.25,10,0.862
+SUP-005,Heritage Foods Network,1.7,25,0.923
+SUP-006,National Packaged FMCG,3.1,150,0.879
+SUP-007,Swift Cold Chain Express,0.75,10,0.949
+SUP-008,Green Produce Hub,1.5,150,0.894
+SUP-009,Starlight Household Supplies,1.5,100,0.863
+SUP-010,Pinnacle Confectionery,1.0,10,0.897
+SUP-011,Zenith Personal Care,2.0,100,0.955
+SUP-012,Metro Snack Warehousing,3.2,25,0.977
+SUP-013,Blue Ocean Water Corp,1.0,10,0.922
+SUP-014,BabyCare Essentials India,3.5,100,0.925
+SUP-015,Omni Pure Chemical Products,3.1,25,0.936

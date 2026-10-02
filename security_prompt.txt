@@ -1,0 +1,349 @@
+============================================================
+50. ENVIRONMENT & API CONFIGURATION
+============================================================
+
+Configure the application to use environment variables for all
+external services.
+
+The application requires:
+
+SUPABASE_URL
+SUPABASE_PUBLISHABLE_KEY
+SUPABASE_SECRET_KEY
+GEMINI_API_KEY
+
+DO NOT hardcode any credentials anywhere in the source code.
+
+Create:
+
+.env.example
+
+with:
+
+SUPABASE_URL=
+SUPABASE_PUBLISHABLE_KEY=
+SUPABASE_SECRET_KEY=
+GEMINI_API_KEY=
+
+The actual .env file must be ignored by Git.
+
+Add .env to .gitignore.
+
+============================================================
+51. SUPABASE CONFIGURATION
+============================================================
+
+Use Supabase for:
+
+- Google authentication
+- PostgreSQL database
+- User management
+- Dataset metadata
+- Uploaded file metadata
+- Schema mappings
+- Inventory analytics results
+- ML predictions
+- Recommendations
+- Action history
+
+Use SUPABASE_URL and SUPABASE_PUBLISHABLE_KEY for normal
+client-side Supabase functionality.
+
+Use SUPABASE_SECRET_KEY ONLY on the backend/server side.
+
+The SUPABASE_SECRET_KEY must NEVER be:
+- exposed to the browser
+- included in frontend JavaScript
+- returned by an API
+- stored in localStorage
+- included in Git
+- included in client-side environment variables
+
+============================================================
+52. GOOGLE AUTHENTICATION
+============================================================
+
+Implement Google OAuth using Supabase Authentication.
+
+Flow:
+
+User
+ ↓
+Login with Google
+ ↓
+Google OAuth
+ ↓
+Supabase Authentication
+ ↓
+Authenticated session
+ ↓
+Next.js Dashboard
+
+Store the authenticated user's Supabase user ID.
+
+All datasets created by the user must be associated with
+that user ID.
+
+Implement Row Level Security so users cannot access another
+user's datasets.
+
+============================================================
+53. GEMINI CONFIGURATION
+============================================================
+
+Use Gemini as the LLM for the AI Inventory Copilot.
+
+The Gemini API key must ONLY be used server-side.
+
+Never put GEMINI_API_KEY in frontend code.
+
+Never send the Gemini API key to the browser.
+
+Create a backend Gemini service.
+
+Architecture:
+
+Next.js
+   ↓
+FastAPI
+   ↓
+Gemini Service
+   ↓
+Gemini API
+
+The frontend should communicate with the FastAPI backend,
+not directly with Gemini.
+
+============================================================
+54. GEMINI AGENT RESPONSIBILITIES
+============================================================
+
+Gemini should handle:
+
+- Natural-language interaction
+- User questions
+- Reasoning over tool results
+- Tool selection
+- Explanation of recommendations
+- Summarization
+- Conversational responses
+
+Gemini must NOT directly invent inventory numbers.
+
+For numerical/business decisions, Gemini must call backend
+tools.
+
+Examples:
+
+User:
+"What should I order today?"
+
+Gemini:
+→ call get_action_queue()
+→ call get_replenishment_recommendations()
+→ explain returned results
+
+User:
+"Why should I order 30 Coke bottles?"
+
+Gemini:
+→ call get_product_details()
+→ call get_forecast()
+→ call get_inventory()
+→ call get_replenishment()
+→ explain the actual returned values
+
+============================================================
+55. BACKEND ENVIRONMENT VARIABLES
+============================================================
+
+FastAPI must load:
+
+SUPABASE_URL
+SUPABASE_PUBLISHABLE_KEY
+SUPABASE_SECRET_KEY
+GEMINI_API_KEY
+
+Use a secure configuration mechanism such as Pydantic Settings.
+
+Fail clearly during startup if required environment variables
+are missing.
+
+Example error:
+
+"Missing GEMINI_API_KEY environment variable."
+
+Do not expose the actual secret value in error messages.
+
+============================================================
+56. FRONTEND ENVIRONMENT VARIABLES
+============================================================
+
+Only expose variables that are safe for the browser.
+
+If Next.js requires a public Supabase variable, use the
+appropriate NEXT_PUBLIC_ prefix.
+
+NEVER expose:
+
+SUPABASE_SECRET_KEY
+GEMINI_API_KEY
+
+to the frontend.
+
+============================================================
+57. API SECURITY
+============================================================
+
+Every protected FastAPI endpoint must validate the user's
+authentication/session.
+
+A user must only be able to access datasets belonging to
+their authenticated account.
+
+Example:
+
+GET /datasets/{dataset_id}
+
+must verify:
+
+dataset.user_id == authenticated_user.id
+
+before returning data.
+
+Do not rely only on frontend checks.
+
+Authorization must be enforced server-side.
+
+============================================================
+58. FILE STORAGE
+============================================================
+
+Use Supabase Storage for uploaded files where appropriate.
+
+Create a secure structure such as:
+
+user_id/
+    dataset_id/
+        inventory.csv
+        sales.csv
+        products.csv
+
+Users must not be able to access another user's files.
+
+Do not expose private files publicly.
+
+Use authenticated access or signed URLs where appropriate.
+
+============================================================
+59. SECRET MANAGEMENT
+============================================================
+
+Create:
+
+.env.example
+
+but NEVER put real secrets into it.
+
+Example:
+
+SUPABASE_URL=https://your-project.supabase.co
+SUPABASE_PUBLISHABLE_KEY=your_publishable_key
+SUPABASE_SECRET_KEY=your_secret_key
+GEMINI_API_KEY=your_gemini_key
+
+Add .env, .env.local, and *.env to .gitignore where
+appropriate.
+
+Do not commit secrets to Git.
+
+============================================================
+60. LOCAL DEVELOPMENT
+============================================================
+
+Provide clear setup instructions.
+
+1. Install dependencies.
+2. Create .env.
+3. Add Supabase credentials.
+4. Add Gemini API key.
+5. Configure Google OAuth in Supabase.
+6. Run database migrations.
+7. Start FastAPI.
+8. Start Next.js.
+
+Backend:
+uvicorn app.main:app --reload
+
+Frontend:
+npm run dev
+
+============================================================
+61. PRODUCTION READINESS
+============================================================
+
+The architecture must allow the project to move from local
+development to production without changing application logic.
+
+Credentials must be supplied through the deployment platform's
+environment-variable system.
+
+Never hardcode development credentials.
+
+============================================================
+62. API HEALTH CHECK
+============================================================
+
+Create:
+
+GET /health
+
+Response:
+
+{
+  "status": "ok",
+  "services": {
+    "database": "connected",
+    "gemini": "configured"
+  }
+}
+
+Do not return secret values.
+
+If a service is unavailable, return an appropriate status
+without exposing credentials.
+
+============================================================
+63. FINAL SECURITY CHECK
+============================================================
+
+Before considering the project complete, verify:
+
+[ ] No API keys are hardcoded.
+[ ] No secrets are committed to Git.
+[ ] .env is ignored.
+[ ] Gemini is called only from the backend.
+[ ] Supabase secret key is server-only.
+[ ] Users cannot access other users' datasets.
+[ ] Uploaded files are private.
+[ ] API endpoints validate authentication.
+[ ] Row Level Security is enabled.
+[ ] No secret appears in frontend JavaScript.
+[ ] No secret appears in logs.
+[ ] .env.example contains placeholders only.
+
+============================================================
+64. IMPORTANT
+============================================================
+
+I will provide the actual credentials separately through
+environment variables.
+
+Do NOT ask me to paste secrets into source code.
+
+Do NOT generate fake API keys.
+
+Do NOT hardcode credentials.
+
+Build the complete integration around the environment
+variables above.

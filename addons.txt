@@ -1,0 +1,339 @@
+# IMPORTANT — CHANGE THE ENTIRE LANDING PAGE BACKGROUND
+
+I DO NOT WANT A DARK-SCREEN LANDING PAGE.
+
+The current dark background is NOT the direction I want.
+
+Move the landing page to a PREMIUM LIGHT THEME.
+
+Do NOT simply invert the current design.
+
+Redesign the color hierarchy properly.
+
+==================================================
+LIGHT VISUAL DIRECTION
+==================================================
+
+Primary background:
+
+Warm off-white / very light neutral.
+
+Preferred direction:
+
+#F7F8FA
+#F8F9FB
+or a similarly sophisticated warm/light neutral.
+
+Do NOT use pure #FFFFFF for the entire page.
+
+Use subtle variation between:
+
+page background
+sections
+cards
+3D visual area
+
+Example:
+
+Page:
+#F7F8FA
+
+Cards:
+#FFFFFF
+
+Secondary section:
+#F2F5F8
+
+Borders:
+#E5E9EF
+
+Primary text:
+#111827
+
+Secondary text:
+#5B6472
+
+Muted text:
+#7A8494
+
+==================================================
+ACCENT COLOR
+==================================================
+
+Keep DarkStore.AI's existing blue identity.
+
+Use blue as the PRIMARY ACCENT.
+
+But do NOT make the entire page blue.
+
+Blue should appear in:
+
+- primary CTA
+- important words
+- links
+- active navigation
+- subtle gradients
+- 3D lighting
+- small highlights
+
+Use a sophisticated blue.
+
+Avoid:
+
+neon blue
+electric blue everywhere
+purple-blue gradients
+rainbow gradients
+
+==================================================
+TYPOGRAPHY
+==================================================
+
+Because the background is now light:
+
+Use deep charcoal text.
+
+NOT pure black everywhere.
+
+Headline:
+
+deep charcoal
+
+Accent word:
+
+blue
+
+Supporting text:
+
+muted slate gray
+
+This should create a strong editorial contrast.
+
+==================================================
+HERO
+==================================================
+
+The hero should feel spacious but NOT empty.
+
+Use:
+
+LEFT:
+
+eyebrow
+headline
+short description
+CTA
+
+RIGHT:
+
+3D intelligence visual
+
+The 3D visual should contrast naturally against the light background.
+
+==================================================
+3D ON LIGHT BACKGROUND
+==================================================
+
+This is VERY IMPORTANT.
+
+Do NOT put the existing dark wireframe sphere unchanged onto a white page.
+
+Redesign the 3D visual specifically for the light theme.
+
+Possible direction:
+
+Dark navy / charcoal geometry
+
+with
+
+controlled blue highlights
+
+and
+
+very subtle cyan lighting.
+
+The 3D object should feel like a premium data/intelligence visualization.
+
+Use:
+
+Three.js
+
+ThreeUI
+
+GSAP
+
+The 3D should integrate into the light page rather than looking pasted on.
+
+==================================================
+BACKGROUND DETAIL
+==================================================
+
+Do not use a completely flat white background.
+
+Add extremely subtle visual depth.
+
+Possible:
+
+very light radial gradient
+
+subtle grid
+
+fine technical lines
+
+very faint noise
+
+soft blue atmospheric glow behind the 3D object
+
+But these must be VERY subtle.
+
+The user should first see:
+
+TYPOGRAPHY
+PRODUCT
+3D
+
+not the background effect.
+
+==================================================
+SECTION COLORS
+==================================================
+
+Do not make every section pure white.
+
+Create subtle changes.
+
+Example:
+
+Hero:
+#F7F8FA
+
+Intelligence:
+#FFFFFF
+
+Product:
+#F2F5F8
+
+AI Decision:
+#FFFFFF
+
+CTA:
+very subtle blue-tinted background
+
+This creates visual rhythm without using dark sections.
+
+==================================================
+NAVIGATION
+==================================================
+
+Light navigation.
+
+Background:
+
+transparent / light.
+
+Text:
+
+dark slate.
+
+Active/hover:
+
+blue.
+
+CTA:
+
+blue background + white text.
+
+Do NOT use a dark navbar.
+
+Do NOT use a giant glass navbar.
+
+==================================================
+3D COLOR RELATIONSHIP
+==================================================
+
+The 3D should be the visual contrast against the light page.
+
+Use:
+
+deep navy
+charcoal
+blue
+subtle cyan
+
+Avoid:
+
+purple
+pink
+neon green
+rainbow
+
+The result should look like:
+
+premium engineering / intelligence visualization
+
+rather than:
+
+AI-generated sci-fi.
+
+==================================================
+404 PAGE
+==================================================
+
+The 404 page must ALSO use the LIGHT theme.
+
+Background:
+
+same light neutral as landing page.
+
+Typography:
+
+dark charcoal.
+
+Accent:
+
+blue.
+
+3D:
+
+small dark/blue intelligence object.
+
+Do NOT make the 404 dark.
+
+Keep it simple.
+
+==================================================
+FINAL VISUAL TARGET
+==================================================
+
+The landing page should feel like:
+
+Premium light-mode technology company
++
+AI intelligence
++
+modern SaaS
++
+editorial typography
++
+high-quality 3D
++
+subtle GSAP motion
+
+NOT:
+
+dark AI dashboard
+NOT:
+generic AI landing page
+NOT:
+template website
+NOT:
+sci-fi website
+
+Most importantly:
+
+DO NOT change the existing dashboard UI.
+
+ONLY change:
+
+Landing Page
+404 Page

@@ -1,0 +1,21 @@
+item_code,product_name,category,store_code,available_qty,expected_inventory,daily_demand,retail_price,cost_price,delivery_days,moq,pack_size,supplier_name,test_case_note
+ENERGY-SHOT-60ML,Red Thunder Energy Shot 60ml,Beverages,MAIN,3,3,28.0,90.0,60.0,2,24,12,Metro Beverage Bottlers,CRITICAL_LOW_STOCK: 3 units left vs 28/day demand; runs out in 2.5 hours
+AVOCADO-HASS-2PK,Hass Avocado 2-Pack Ready to Eat,Fresh Produce,MAIN,2,2,16.0,160.0,110.0,1,15,5,Fresh Harvest Produce,CRITICAL_LOW_STOCK: 2 units left vs 16/day demand; runs out in 3.0 hours
+ALMOND-MILK-1L,Organic Unsweetened Almond Milk 1L,Dairy Alternatives,MAIN,4,4,22.0,195.0,140.0,2,20,10,Pure Dairy Express,CRITICAL_LOW_STOCK: 4 units left vs 22/day demand; lead time 2 days
+BREAD-BRIOCHE,Handcrafted French Brioche Loaf,Bakery,MAIN,1,1,15.0,120.0,75.0,1,10,5,Artisan Bakery Network,CRITICAL_LOW_STOCK: 1 unit left vs 15/day demand; imminent stockout
+ORGANIC-EGGS-6PK,Pasture Raised Brown Eggs 6-Pack,Dairy & Eggs,MAIN,0,0,18.0,110.0,80.0,1,20,10,Pure Dairy Express,STOCKOUT_ZERO_STOCK: 0 units on hand; lost sales occurring
+GREEK-YOGURT-ZERO,Zero Fat Greek Yogurt Pot 150g,Dairy,MAIN,-2,-2,14.0,75.0,50.0,1,20,10,Pure Dairy Express,NEGATIVE_INVENTORY_ANOMALY: -2 units system drift; barcode or scanning error
+PREMIUM-OLIVE-OIL-500ML,Extra Virgin Cold Pressed Olive Oil 500ml,Pantry,MAIN,45,15,3.0,650.0,480.0,3,12,6,Heritage Oils & Vinegars,PHANTOM_INVENTORY_CRITICAL: Recorded 45 vs expected 15 (+30 discrepancy)
+MATCHA-TEA-POWDER,Ceremonial Grade Matcha Powder 50g,Beverages,MAIN,10,28,4.0,550.0,380.0,4,10,5,Zenith Tea Imports,SHRINKAGE_PHANTOM_INVENTORY: Recorded 10 vs expected 28 (-18 discrepancy)
+BULK-DETERGENT-5KG,Ultra Clean Laundry Detergent 5kg,Household,MAIN,340,340,1.2,520.0,380.0,3,10,5,Metro Essentials,SEVERE_OVERSTOCK: 340 units at 1.2/day = 283 days of supply trapped
+FANCY-PARTY-STREAMERS,Neon Birthday Party Streamers,General,MAIN,480,480,0.4,150.0,90.0,5,20,10,Global Novelties,MASSIVE_OVERSTOCK: 480 units at 0.4/day = 1200 days of supply
+COLD-BREW-CAN,Nitro Cold Brew Coffee 250ml,Beverages,MAIN,6,6,24.0,125.0,85.0,2,24,12,Metro Beverage Bottlers,HIGH_REORDER_URGENCY: Low stock with pack size 12 and MOQ 24
+MINERAL-WATER-1L,Alkaline Mineral Spring Water 1L,Beverages,MAIN,8,8,30.0,45.0,28.0,2,48,24,Metro Beverage Bottlers,HIGH_REORDER_URGENCY: Low stock with pack size 24 and MOQ 48
+COKE-500,Coca-Cola 500ml Bottle,Beverages,MAIN,18,18,32.0,40.0,28.0,2,24,12,Metro Beverage Bottlers,BALANCED_REGULAR_REORDER: Steady demand requiring scheduled replenishment
+MILK-1L,Fresh Whole Milk 1L,Dairy,MAIN,14,14,35.0,65.0,50.0,1,20,10,Pure Dairy Express,PERISHABLE_FAST_CYCLE: Daily milk delivery with 1 day lead time
+CHIPS-150G,Classic Salted Potato Chips 150g,Snacks,MAIN,120,120,8.0,30.0,20.0,3,50,25,Crisp Snack Distributors,HEALTHY_STOCK: Healthy 15 days of buffer stock
+DARK-CHOCOLATE-BAR,Roasted Almond Dark Chocolate 80g,Snacks,MAIN,65,65,5.0,60.0,42.0,3,50,25,Crisp Snack Distributors,HEALTHY_STOCK: Balanced inventory within target safety band
+SPARKLING-WATER-500ML,Lime Sparkling Mineral Water 500ml,Beverages,MAIN,22,22,12.0,50.0,32.0,2,24,12,Metro Beverage Bottlers,HEALTHY_STOCK: Optimal stock level
+CROISSANT-2PK,All-Butter French Croissant 2-Pack,Bakery,MAIN,5,5,12.0,85.0,60.0,1,10,5,Artisan Bakery Network,SHORT_SHELF_LIFE_REORDER: Fresh bakery item needing quick turnaround
+ROASTED-CASHEWS-200G,Salted Jumbo Roasted Cashews 200g,Snacks,MAIN,15,15,6.0,290.0,210.0,2,20,10,Crisp Snack Distributors,NORMAL_REORDER: Standard reorder point trigger
+GREEN-TEA-BOX,Organic Japanese Green Tea 25 Bags,Beverages,MAIN,32,32,3.5,180.0,120.0,3,15,5,Zenith Tea Imports,HEALTHY_STOCK: Stable staple commodity

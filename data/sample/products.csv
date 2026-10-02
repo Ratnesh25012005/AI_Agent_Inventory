@@ -1,0 +1,21 @@
+item_code,item_name,category,vendor
+COKE-500,Coca-Cola 500ml Bottle,Beverages,SUP-01
+MILK-1L,Fresh Whole Milk 1L,Dairy,SUP-02
+CHIPS-150G,Classic Salted Potato Chips 150g,Snacks,SUP-03
+YOGURT-GREEK,Authentic Greek Yogurt 200g,Dairy,SUP-02
+ENERGY-DRINK,Red Thunder Energy Drink 250ml,Beverages,SUP-01
+BREAD-SOURDOUGH,Artisan Sourdough Loaf,Bakery,SUP-04
+BUTTER-200G,Salted Creamery Butter 200g,Dairy,SUP-02
+COLD-BREW-CAN,Nitro Cold Brew Coffee 250ml,Beverages,SUP-01
+OAT-MILK-1L,Organic Barista Oat Milk 1L,Dairy Alternatives,SUP-02
+ICE-CREAM-PINT,Belgian Dark Chocolate Ice Cream,Frozen,SUP-02
+EGGS-12PK,Farm Fresh Organic Eggs 12-Pack,Dairy & Eggs,SUP-02
+CHOCOLATE-BAR,Roasted Almond Dark Chocolate 80g,Snacks,SUP-03
+SPARKLING-WATER,Lime Sparkling Mineral Water 500ml,Beverages,SUP-01
+CROISSANT-2PK,All-Butter French Croissant 2-Pack,Bakery,SUP-04
+APPLE-1KG,Royal Gala Crisp Apples 1kg,Fresh Produce,SUP-05
+BANANA-ROBUSTA,Cavendish Ripe Bananas 1kg,Fresh Produce,SUP-05
+TOMATO-HYBRID,Vine Ripe Salad Tomatoes 500g,Fresh Produce,SUP-05
+ONION-1KG,Red Dry Storage Onions 1kg,Fresh Produce,SUP-05
+CHEDDAR-CHEESE,Mature White Cheddar Block 200g,Dairy,SUP-02
+ALMOND-BUTTER,Stone Ground Creamy Almond Butter,Breakfast,SUP-03
