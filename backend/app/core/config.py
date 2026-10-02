@@ -37,12 +37,32 @@ class Settings(BaseSettings):
     # Gemini Configuration
     GEMINI_API_KEY: str = Field(..., description="Google Gemini API key for AI Copilot (server-only)")
 
-    # Data paths
-    DATA_RAW_DIR: Path = ROOT_DIR / "data" / "raw"
-    DATA_PROCESSED_DIR: Path = ROOT_DIR / "data" / "processed"
-    DATA_SAMPLE_DIR: Path = ROOT_DIR / "data" / "sample"
-    DATA_ARTIFACTS_DIR: Path = ROOT_DIR / "data" / "artifacts"
-    MODELS_DIR: Path = ROOT_DIR / "ml" / "models"
+    # Data paths: Use /tmp in production (Render's ephemeral filesystem)
+    @property
+    def _data_base(self) -> Path:
+        if self.ENVIRONMENT == "production":
+            return Path("/tmp")
+        return ROOT_DIR
+
+    @property
+    def DATA_RAW_DIR(self) -> Path:
+        return self._data_base / "data" / "raw"
+
+    @property
+    def DATA_PROCESSED_DIR(self) -> Path:
+        return self._data_base / "data" / "processed"
+
+    @property
+    def DATA_SAMPLE_DIR(self) -> Path:
+        return self._data_base / "data" / "sample"
+
+    @property
+    def DATA_ARTIFACTS_DIR(self) -> Path:
+        return self._data_base / "data" / "artifacts"
+
+    @property
+    def MODELS_DIR(self) -> Path:
+        return self._data_base / "ml" / "models"
 
     @field_validator("SUPABASE_PUBLISHABLE_KEY", mode="before")
     @classmethod
